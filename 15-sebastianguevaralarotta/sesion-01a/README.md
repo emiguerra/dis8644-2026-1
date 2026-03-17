@@ -27,11 +27,20 @@ Los circuitos electricos estan compuestos de diferentes tipo de piezas. Algunas 
 
 Existen circuitos paralelos, circuito cerrado, circuito abierto, circuito de serie, circuito mixto. 
 
-##### Materiales - Conductores / Aislante
-                    hierro        vidrio
-                    plata         tierra
-                    oro           plastico
-                    cobre         madera  
-                    aluminio      cuero
+##### Materiales 
 
+**- Conductores **
+Hierro        
+Plata         
+Oro           
+Cobre         
+Aluminio      
+
+**Aislantes**
+Vidrio
+Tierra
+Plastico
+Madera
+Cuero.
+                  
                    
