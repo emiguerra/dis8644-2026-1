@@ -51,6 +51,9 @@ Corriente es cuánta energía pasa. Entre más corriente, más electrones pasan.
 
 - **Resistencia:** limite de velocidad
 
+##imagenes del proceso
+
+
 ## Post clase
 
 Mi hermana me enseño a como ingresar una imagen en github la cual probé en la primera clase, además de aprender sobre cómo jerarquizar de manera no visual como se haría editorialmente y como crear una carpeta
