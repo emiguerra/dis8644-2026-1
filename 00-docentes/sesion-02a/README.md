@@ -10,7 +10,13 @@
 
 ![Circuito paralelo](./imagenes/circuito-paralelo.png)
 
-![Circuito básico en proto](./imagenes/paralelo-proto.png)
+![Circuito paralelo en proto](./imagenes/paralelo-proto.png)
+
+## Circuito serie
+
+![Circuito serie](./imagenes/circuito-serie.png)
+
+![Circuito serie en proto](./imagenes/serie-proto.png)
 
 ## Encargo: LQXTLC
 
