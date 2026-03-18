@@ -2,7 +2,7 @@
 
 ## Clase 170326
 
-### pre-clase
+### pre-clase (teloneo Aaron)
 
 Referentes entregados
 
@@ -18,6 +18,8 @@ El sonido comienza y decae.
 
 ### clase
 
+- Primera parte: Aaron 
+
 Primero observamos y analizamos cada elemento que se nos otorgó en cada caja
 
 **Potenciómetro:** Existen los A y B. Los B son económicos, en cambio los A son caros y se utilizan en audio. 
@@ -30,6 +32,8 @@ Se crearon primero las luces verdes y en la actualidad recién podemos ver luces
 
 Los parlantes de bajo son mucho más grandes ya que el oído humano es más susceptible a ello, en cambio los agudos no y cada vez los escuchas menos. 
 
+- Primera parte: Misaa
 
+Resistencia electronica: 
 
 
