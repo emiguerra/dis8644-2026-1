@@ -29,7 +29,7 @@
   - ### **Conexión 2 protoboard con 4 LED**
     - ![Prueba 2 Protoboard 4 LED](./imagenes/IMG_3364X.jpg)
   - ### **Prueba circuito trabajo en clase**
-    - ![Prueba circuito trabajo en clase](./imagenes/IMG_3368X.gif)
+    - ![Prueba circuito trabajo en clase](./imagenes/IMG_3368.gif)
 
         wooooow gif
 
@@ -85,7 +85,7 @@
 | R5                   |  ✔️  |  ✔️  |  ✔️  |  ✔️  |
 | R6                   |  ✔️  |  ✔️  |  ✔️  |  ✔️  |
 
-- ![GIF_Quemado](./imagenes/IMG_3378.gif)
+- ![GIF_Quemado](./imagenes/IMG_3378X.gif)
   - Se ve quemado el gif
     - Algo hice
 
