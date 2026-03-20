@@ -47,7 +47,7 @@ Hoy en clases nos entrgaron varios materiales para trabajar en circuitos, aqui u
 + Potenciómetro: ​Es una resistencia variable. Sirve para que tú puedas controlar manualmente la intensidad de algo, como subir el volumen de un parlante o variar el brillo de una luz LED al girar su perilla.
 + Pila: ​Es un dispositivo que convierte energía química en eléctrica. Sirve como la fuente de energía (el "alimento") para que tu circuito pueda funcionar sin estar conectado a un enchufe.
   
-![imagen_componentes](./imagenes/Apuntes_2.jpg)
+![imagen_componentes](./imagenes/apuntes_2.jpg)
 
 ### apuntes escritos en clases
 
