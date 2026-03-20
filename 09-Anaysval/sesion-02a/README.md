@@ -23,7 +23,7 @@ Los componentes están en ramas independientes. Tienen el mismo voltaje, la corr
 ![foto](./imagenes/paralelo-proto.png)
 
 ## Circuito en serie
-los componentes se conectan en un solo camino. La corriente es la misma en todo el circuito, el voltaje se reparte y la resistencia total es la suma de las resistencias.
+Los componentes se conectan en un solo camino. La corriente es la misma en todo el circuito, el voltaje se reparte y la resistencia total es la suma de las resistencias.
 
 ![foto](./imagenes/circuito-serie.png)
 ![foto](./imagenes/serie-proto.png)
@@ -80,13 +80,14 @@ R4: No sé si algo salió mal o los leds estaban fallando nuevamente.
 
 ## Kraftwerk - Die Mensch-Maschine
 Kraftwerk surge en Alemania Occidental en plena posguerra, en un contexto de reconstrucción cultural y tecnológica, buscaban una identidad alemana moderna basada en la tecnología, la repetición y la máquina.  
+
 Trabajaban desde su propio estudio, el Kling Klang Studio, donde tenían control total sobre sonido, producción y estética.  
 
 (Wikipedia)
 
 La Máquina del Hombre (alemán: Die Mensch-Maschine) es el séptimo álbum de estudio de la banda alemana de música electrónica Kraftwerk. Fue publicado el 19 de mayo de 1978 por Kling Klang en Alemania y por Capitol Records en otros lugares. Un refinamiento adicional de su estilo mecánico, el álbum permitió al grupo incorporar ritmos más bailables. El álbum tiene un matiz satírico. Aborda una amplia gama de temas, desde la Guerra Fría, la fascinación de Alemania por la manufactura y la relación cada vez más simbiótica de la humanidad con las máquinas.
 
- (PyD)
+(PyD)
  
 Instrumentos utilizados:  
 
