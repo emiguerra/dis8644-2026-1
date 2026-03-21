@@ -13,6 +13,12 @@ Imagen: Autoridad propia
 
 -----------
 
+***Primeros intentoa:***
+
+![intento 1](https://github.com/paulafuentesm/dis8644-2026-1/blob/d0734e488cbea0ddaac00cc1edcdcbfe2db8990b/13-paulafuentesm/sesion-02a/imagenes/ej_intento.jpg)
+
+![intento 2](https://github.com/paulafuentesm/dis8644-2026-1/blob/d0734e488cbea0ddaac00cc1edcdcbfe2db8990b/13-paulafuentesm/sesion-02a/imagenes/ej_intento02.jpg)
+
 **Encargo: LQXTLC**
 
 
@@ -33,6 +39,8 @@ led(d4): amarillo
 
 ![ejercicio1](https://github.com/paulafuentesm/dis8644-2026-1/blob/20c305b2cf5c740af76d25c556f8582e36252e38/00-docentes/sesion-02a/imagenes/lqxtlc1.png)
 Imagen: Circuito 1
+
+![ejercicio1 digital](https://github.com/paulafuentesm/dis8644-2026-1/blob/d0734e488cbea0ddaac00cc1edcdcbfe2db8990b/13-paulafuentesm/sesion-02a/imagenes/ej1/ej_digital_1.png)
 
 ![ejercicio1](https://github.com/paulafuentesm/dis8644-2026-1/blob/c6d94523e74b2cf6d993c58ee8eb9d253772f507/13-paulafuentesm/sesion-02a/imagenes/ej01_clases.jpg)
 Imagen: Trabajo en clases
