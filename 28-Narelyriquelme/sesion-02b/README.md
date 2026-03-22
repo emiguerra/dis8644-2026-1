@@ -18,18 +18,24 @@ Se utiliza principalmente en dos modos:
 
 Es la pieza fundamental en dispositivos que se activan automáticamente al anochecer, como las luces de los postes de la calle. 
 
-### apuntes de la clase
+**apuntes de la clase**
 
 ![Ejercicio 1](./imagenes/apuntes_2b.jpg)
 
-hisimos un circuito con el chip ic 555 en donde la luz led parpadeaba porque el chip 555 está "vigilando" constantemente cómo se llena y se vacía el condensador, encendiendo y apagando la luz cada vez que el condensador llega a sus límites de carga, despues realisamos diferentes pruebas cambiando algunos componentes.
+### Circuito Integrado 555
 
-hicimos mas pruebas cambiando el condensador de 10microF primero por el de 100 cambiando la velocidad del parpadeo del led mas lento y al cambiarlo al de 1 la velocidad aumentaba mucho casi sin que se note que estaba parpadeando 
-
-despues cambiamos el R2 primero por un potenciometro que hacia que se pudiera controlar la velocidad del parpadeo de las luz led y despues lo cambiamos po un fotoresistor que hacia que la intencidad de la luz aumentara o disminuia segun cuanta luz le llegaba al fotoresistor.
+​Armamos un circuito con el chip IC 555 en el que la luz LED parpadeaba porque el chip está "vigilando" constantemente cómo se llena y se vacía el condensador. El 555 enciende y apaga la luz cada vez que el condensador llega a sus límites de carga y descarga. Después de comprobar su funcionamiento básico, realizamos diferentes pruebas cambiando algunos componentes para observar cómo variaba el comportamiento del circuito.
 
 **Resumen de las Pruebas Realizadas**
 
-​Llevamos a cabo una serie de experimentos modificando los componentes del oscilador astable para observar cómo afectaban el comportamiento del LED.
++ **Cambio de capacitancia:** Al probar con diferentes condensadores (1mF, 10mF y 100mF), notamos que a mayor capacidad, el parpadeo se volvía más lento.
++ ​**Uso del potenciómetro:** Sustituimos al R2 con el potenciometro que tenia la capacidad de controlar manualmente la velocidad de la luz
++ **​Uso del fotoresistor (LDR):** Logramos que el circuito reaccionara a la luz ambiental, alterando la frecuencia del parpadeo según la claridad del entorno
 
+### Imagenes de las pruebas realizadas
 
+![Prueba 1](./imagenes/condensador.jpg)
+
+![Prueba 2](./imagenes/potenciometro.jpg)
+
+![Prueba 3](./imagenes/fotoresistor.jpg) 
