@@ -21,8 +21,7 @@ La clase comenzó con una charla muy cálida, teniendo como tema principal, un d
 
 Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cuantos truquitos de codificación para ordenar nuestros apuntes en Github. Y de esa manera, finalizo la primera parte de la clase antes de salir a receso. 
 
-<img src="https://github.com/user-attachments/assets/727bb9fd-b088-44cd-a039-9902a59999ad" width="250">
-<img src="https://github.com/user-attachments/assets/19f09e5f-f706-414b-b342-c5e9729934dc" width="250">
+![codigos escritos por Santi](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/codigosesion-1b.jpg)
 
 ## 2.	Primer acercamiento a los circuitos 
 
