@@ -99,7 +99,7 @@ ___
 ### Práctica encargo
 
 Práctica de ejercicio con chip 555, realizada para repasar y practicar de forma autónoma, sin ayuda. El resultado fue bueno; sin embargo, al parecer la batería está descargada o el cable negativo está en mal estado, ya que debía acomodarlo en cierta posición para que el LED encendiera, y solo lo hacía por muy poco tiempo. Quizás también pudo haber ocurrido algún otro error. Confirmar en clase.
-![practica](./imagenes/practica-repaso.jpeg)
+![practica](./imagenes/practica-repaso.jpg)
 
 **10 preguntas próxima clase**
 
