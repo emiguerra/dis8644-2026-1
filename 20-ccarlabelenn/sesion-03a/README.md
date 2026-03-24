@@ -14,3 +14,10 @@
 circuito A-estable con parlante 
 
 ![circuito-a-estable](./imagenes/circuito-a-estable.jpeg)
+
+## segundo bloque 
++ condensador en serie: atenua ciertos comportamientos de la onda
++ la resistencia hace que no sea tan agresivo el paso de los electrones
++ con resistencia y condensador se puede filtrar, escalersa de moog (mood filter ladder)
++ (R) atenua (C) filtra 
++ las diferencias son importantes porque son productivas 
