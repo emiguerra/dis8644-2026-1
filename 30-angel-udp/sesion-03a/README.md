@@ -86,3 +86,5 @@ dejamos en la prto board el más hacia Abajo dejamos el lado plano y dejamos arr
 ### SW es Switch
 
 El circuito de la nueva tarea hace que pueda emitir sonidos a distintas frecuencias
+
+RV es el potenciometro
