@@ -44,3 +44,9 @@ Entender y aprender esto nos ayudara a poder que un simple DC y cables hagan mag
 Minimizar el flujo de potencia
 
 Se puede tener dos fines en caso del libro entregar potencia o minimizar, que en esto estas trabajando el flujo de información.
+
+-------
+
+### Ejercicio circuito toy organ
+
+Con mi grupo tomamos la decisión de tener un proceso personal ya que la movilización hacia la universidad el día en que podíamos todos, se nos complicó. Mis compañeros lo hicieron primero en tinkercad y les funciono. Yo hice lo mismo, pero como aún no entiendo muy bien los esquemáticos, hice lo que pude y no pude seguir, me sesgue en que no puedo entender bien los esquemáticos. Quiero resolver bien ahora que estoy más consciente de esto que seguir forzando a seguir en algo que no comprendo. 
