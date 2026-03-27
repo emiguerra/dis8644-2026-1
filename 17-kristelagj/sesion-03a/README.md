@@ -60,9 +60,12 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 No funciono, santi nos mando su resultado y compare que me faltaba que el tenia (a él si le resulto)
 
-![santi](imagenes/resultado_santi.jpeg) 
+![santi](imagenes/resultado_santi.jpeg)
 
-- Cómo leer un esquemático
+1. Santi utilizo cables caimán para cconectar el parlante y yo no.
+2. A los interruptores les coloco
+
+- Cómo leer un esquemáticouncable que los direccionara al 555 y yo solo los coloque
 
 **Diagrama esquemático:** Representación simplificada de los elementos en un circuito. No sólo muestra cómo están conectados los componentes, sino cómo influye la electricidad a través del circuito.
 
