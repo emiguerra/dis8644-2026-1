@@ -50,3 +50,7 @@ Se puede tener dos fines en caso del libro entregar potencia o minimizar, que en
 - Ejercicio circuito toy organ
 
 Con mi grupo tomamos la decisión de tener un proceso personal ya que la movilización hacia la universidad el día en que podíamos todos, se nos complicó. Mis compañeros lo hicieron primero en tinkercad y les funciono. Yo hice lo mismo, pero como aún no entiendo muy bien los esquemáticos, hice lo que pude y no pude seguir, me sesgue en que no puedo entender bien los esquemáticos. Quiero resolver bien ahora que estoy más consciente de esto que seguir forzando a seguir en algo que no comprendo. Tengo que darle más tiempo si es que quiero aprender más. Me sesgo muy facíl. 
+
+
+https://cursos.mcielectronics.cl/2019/06/18/como-leer-un-esquematico/
+
