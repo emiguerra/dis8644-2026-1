@@ -21,6 +21,11 @@
 
 - click derecho para agregar componentes
 - escape para volver
+- electrones ´visibles´, ayuda mas a entender el circuito y como pasa la energia en el
+- verde es el voltaje
+- amarillo la corriente del circuito
+- info extra (mas matematico y asix)
+- 
 
 ### Pins 555 
 ![555-timer-tutorial-fig2](https://github.com/user-attachments/assets/dedd17ea-928b-48f9-95f1-bd98389b11ee)
