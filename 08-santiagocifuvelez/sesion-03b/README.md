@@ -34,6 +34,8 @@ Más resistencias → más oposición → menos corriente.
 **2. Resistencias en paralelo (ramificadas)**  
 En esta, la corriente se divide en caminos, lo cual genera que la resistencia disminuya y pase más corriente.
 
+![serie](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03b/imagenes/img1.jpg)
+
 Dos de 10k en paralelo → 5kΩ 
 
 Más caminos → menos resistencia total → más corriente
