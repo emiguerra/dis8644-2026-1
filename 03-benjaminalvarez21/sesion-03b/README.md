@@ -49,3 +49,7 @@ y por ultimo de 1uf
 https://github.com/user-attachments/assets/b0a16711-0bde-42a0-bd09-cf6068431ab0
 
 como resultado pudimos ver que mientras menos uf es mas agudo el sonido
+
+aca un link de una calculadora de codigos de resistencias
+
+https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
