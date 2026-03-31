@@ -65,4 +65,10 @@ Como cultura del occidente mantendremos la lectura de izquierda a derecha aunque
 
 LDR: FOTO RESISTOR **porque significa Light Dependent Resistor (Resistor Dependiente de la Luz) en inglés**
 
-Atari
+---
+
+Logramos conectar con varios intentos y errores el chip 555 de la stable y la monostable, con ayuda de los profes logamos llegar al descubrimiento de que un chip falleció y probando con uno nuevo logro funcionar y moviendo algunos piezas para acortar el uso de los clables dupont.
+
+A continuación la foto de el objetivo logrado con los materiales compartidos de mi compañero tomás catrileo y mios:
+
+![Foto resultado](./imagenes/proyectoencalse.jpeg)
