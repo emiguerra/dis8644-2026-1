@@ -2,6 +2,14 @@
 
 martes 10 de marzo
 
+- Protoboard: placa para armar circuitos sin soldadura, permite conectar componentes de forma temporal.
+
+- LED: diodo que emite luz al pasar corriente.
+  - Ánodo (+): pata larga
+  - Cátodo (–): pata corta / lado plano
+ 
+- Sintetizador: sistema que genera sonido a partir de señales eléctricas.
+
 ## Encargo 01
 
 ### Sisters with Transistors

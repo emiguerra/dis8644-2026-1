@@ -4,6 +4,15 @@ viernes 13 de marzo
 
 ## Introducción a protoboards, leds y resistencias
 
+- Electrón: partícula subatómica con carga negativa que se mueve y genera corriente eléctrica.
+- Corriente (I): flujo de electrones. 
+- Voltaje (V): diferencia de potencial eléctrico. 
+- Resistencia (R): oposición al paso de corriente. 
+- Ley de Ohm: I = V / R
+  - Voltaje (V) → se mide en voltios
+  - Corriente (I) → se mide en amperios
+  - Resistencia (R) → se mide en ohmios (Ω)
+ 
 ### Documental Aaron Swartz 
 
 Aaron Swartz fue un programador, escritor y activista de internet estadounidense, reconocido por su participación en el desarrollo de tecnologías clave como Creative Commons y la plataforma Reddit. Desde muy joven destacó por su talento en programación y a lo largo de su vida se enfocó en promover el acceso libre a la información en internet. Fue un activista político que defendía que el conocimiento, especialmente el académico, debía estar disponible para todas las personas.

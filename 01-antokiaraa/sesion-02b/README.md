@@ -4,7 +4,10 @@ viernes 20 de marzo
 
 ## Apuntes clase
 
-pendiente traspasar
+- Fotoresistor (LDR): resistencia que varía según la cantidad de luz que recibe.
+  - Más luz → menor resistencia
+  - Menos luz → mayor resistencia
+- Chip 555: uno de los circuitos integrados más utilizados en electrónica, especialmente para generar pulsos, temporizadores y oscilaciones.
 
 ### Repaso materia
 
