@@ -209,3 +209,7 @@ desde J1 a J20 siguen conectados previamente hasta CD con L y R.
 5. Me gusta el diseño de los sectores, muy microdesign
 6. Hay una entrada de cable que tienen una conexión con la placa de cables que es GND
 
+(HACER DIBUJOS)
+
+
+
