@@ -1,26 +1,60 @@
 # sesion-03a
 
-Recomendaciones y anotaciones : 
-Editorial matar Chile
-Astable: falta de estabilidad
-Amor: falta de muerte
-Contreras: Contrario 
+Recomendaciones: Editorial matar Chile  
+
+**Los multivibradores astables y monoestables son circuitos generadores de pulsos, comúnmente basados en el _Chip integrado 555_.**
+
+### Multivibrador Astable: 
+
+Oscilador de libre funcionamiento sin estados estables, generando una onda cuadrada continua (reloj).
+
+- **Funcionamiento:** no tiene estados estables. Alterna automáticamente entre "alto" y "bajo" continuamente, funcionando como oscilador.
+- **Salida:** onda cuadrada o rectangular (tren de pulsos).
+- **Componentes:** determinado por dos resistencias (R1, R2) y un capacitor (C1) para la frecuencia y el ciclo de trabajo.
+- **Ej de aplicacion:** luces LED intermitentes
+
+### Multivibrador Monoestable
+ 
+Tiene un único estado estable y produce un solo pulso de duración definida tras un disparo externo (temporizador).
+
+- **Funcionamiento:** Posee un solo estado estable (generalmente en reposo o "bajo"). Al recibir un pulso externo, cambia al estado "alto" durante un tiempo específico y regresa automáticamente al estable.
+- **Salida:** Un único pulso de duración predeterminada.
+- **Componentes:** El tiempo del pulso está determinado por una resistencia (R) y un capacitor (C).
+- **Ej de aplicacion:** temporizadores.
 
 
-Frecuencia: cada cuánto pasa algo: suceso y tiempo
-El tiempo que hay mientras se repite un ciclo es una onda. Ese tiempo es el que se llama periodo, ese periodo define una onda
+videos explicativos: 
 
-Periodo importante: día (la tira gira, 24 horas)
-tomar pastilla cada 8 horas
+- [video 1](https://www.google.com/search?sca_esv=e701aa2a750b70d5&rlz=1C5CHFA_enCL884CL884&sxsrf=ANbL-n6d5KUAaT5vso4jtzNiz_5s6BB6cQ:1775254370085&q=astable+monoestable&source=lnms&fbs=ADc_l-Z2hWAAkBmTP82hVZiVsf_aB0R8OETo07r27nNcwnogIyRLslmNBLttnosEf9Shs3VyjeVE3ZV1aQeJeDqRGPbA6Y6FtyudVBvbNrkBAl3jtkBAl5IZqOLwV-JJvr8noajnjKHNBN3kBQRF0zYW0W_OypIfC5ETyEZmgQnuti68d02WVoXgHm1CaWA6VjVfnEaLdHk0P939Y3pezDWBK2hZP6RG72jt8k979F7q-0aDiucoHeo&sa=X&ved=2ahUKEwiJq_Xw2dKTAxVHgWEGHbwfKF4Q0pQJegQICxAB&biw=1381&bih=701&dpr=1#fpstate=ive&vld=cid:8df119ec,vid:fjkZFDpk5Yc,st:74)
+
+- [video 2](https://www.google.com/search?sca_esv=e701aa2a750b70d5&rlz=1C5CHFA_enCL884CL884&sxsrf=ANbL-n6d5KUAaT5vso4jtzNiz_5s6BB6cQ:1775254370085&q=astable+monoestable&source=lnms&fbs=ADc_l-Z2hWAAkBmTP82hVZiVsf_aB0R8OETo07r27nNcwnogIyRLslmNBLttnosEf9Shs3VyjeVE3ZV1aQeJeDqRGPbA6Y6FtyudVBvbNrkBAl3jtkBAl5IZqOLwV-JJvr8noajnjKHNBN3kBQRF0zYW0W_OypIfC5ETyEZmgQnuti68d02WVoXgHm1CaWA6VjVfnEaLdHk0P939Y3pezDWBK2hZP6RG72jt8k979F7q-0aDiucoHeo&sa=X&ved=2ahUKEwiJq_Xw2dKTAxVHgWEGHbwfKF4Q0pQJegQICxAB&biw=1381&bih=701&dpr=1#fpstate=ive&vld=cid:ac400ae3,vid:-Nz1XN2rPxw,st:8)
 
 
-Fórmula:
+### Otras definiciones
+
++ Amor: falta de muerte
+  
++ Contreras: contrario 
+( :0 )
+
+
+**Frecuencia:** cada cuánto pasa algo (suceso y tiempo).
+El tiempo que hay mientras se repite un ciclo es una onda. Ese tiempo es el que se llama **periodo**, ese periodo **define una onda**.
+
+ej periodos importantes:
+día (la tierra gira, 24 horas)
+ingesta de remedios(tomar pastilla, 8 horas)
+
+
+**Fórmula:**
 
 1/periodo (1/T)
 
 periodo asociado a la frecuencia 
 
-si C se hace más grande, la frecuencia baja.
+*revisar estos apuntes… 
+
+astsi C se hace más grande, la frecuencia baja.
 A sube, T baja.
 
 RV resistencia 7/6
@@ -34,40 +68,70 @@ oscilación puede ocurrir en cualquier frecuencia
 voltaje 9V
 
 
+*Segundo bloque*
 
-2-----
+### Referentes:
 
-Referentes:
-John Cage 
-experimento de silencio: incluso en una sala aislante de ruido y él aguantando la respiración, 
-el silencio no existe, es un constructo.
+## John Cage 
 
-David Tudor:
-ex pianista que se dedicó a la música electrónica
+John Cage (1912–1992) fue un compositor, teórico musical y artista visual estadounidense. Su **exploración del azar, el silencio y el sonido cotidiano transformó las nociones tradicionales de música y composición, influyendo profundamente en generaciones posteriores de músicos y artistas conceptuales**.
+Influenciado por el budismo zen y la filosofía oriental, Cage concebía la música como una forma de atención plena al entorno sonoro. Su célebre frase “no existe el silencio” resume su idea de que cualquier sonido puede ser música. La obra 4′33″, en la que el intérprete no ejecuta notas, ejemplifica este principio y se convirtió en un ícono del arte conceptual del siglo XX.
+
+fuentes: [John Cage Trust](https://johncage.org/), [John Cage - Percussive Arts Society](https://pas.org/john-cage/) 
+
+performance: [John Cage 4’33 - "Everything we do is music”](https://www.youtube.com/watch?v=TOgrWX5_dS4)
+
+
+**Comentario que rescaté del video (@Warlesc):**
+> Se dice comúnmente que John Cage introduce la noción de silencio, pero en realidad este silencio en la interpretación, fomenta la escucha atenta por parte de los espectadores, de los micro acontecimientos sonoros que se producen en la sala durante 4'33'' que dura el concierto. Cage es el introductor de la escucha activa, influenciado por las enseñanzas de las filosofías orientales propuestas por el maestro Zen D.T. Suzuki. Su silencio amplía la percepción sonora y **cambia el foco de atención de la música occidental hacia los sonidos no intencionados**.
+
+***Experimento del silencio***
+Este experimento (realizado en 1951) consistió en entrar a una cámara anecoica en la Universidad de Harvard para buscar el silencio absoluto. Al escuchar su sistema nervioso (zumbido agudo) y sanguíneo (sonido grave), concluyó que el silencio no existe. Esta revelación inspiró su obra 4′33″ (1952), enfocada en los sonidos ambientales.
+
+incluso en una sala aislante de ruido y él aguantando la respiración, no logró alcanzar el silencio absoluto. Concluyendo que el silencio no existe, sino que es un constructo.
+
+fuente: Irina Mishina
+
+<https://irinamishina.com/es/2013/09/23/como-john-cage-descubri-que-el-silencio-no-existe/#:~:text=En%201951%20John%20Cage%2C%20uno,sonidos%20que%20nos%20pueden%20rodear.> 
+
+
+
+## David Tudor:
+David Tudor (1926–1996) fue un pianista y compositor estadounidense, ampliamente reconocido por su papel pionero en la interpretación de música experimental y en el desarrollo de la música electrónica en vivo. Su colaboración con **John Cage** (frends bffs) definió una era en la música contemporánea del siglo XX. A partir de los años sesenta, Tudor dejó de ser principalmente intérprete para dedicarse a la creación de sistemas sonoros y circuitos electrónicos que funcionaban como instrumentos en sí mismos. Ha sido posicionado como precursor de la performance electrónica en vivo y del uso escultórico del sonido.
+
+fuente: su [página de wikipedia]<https://es.wikipedia.org/wiki/David_Tudor>
+
+Steim Slaapkamer Muziek (16/06/1994)
+<https://www.youtube.com/watch?v=Fo30MgBRQO0>
+
 
 Matt (no anoté el apellido...) oscilador victoriano (macumbista)
 
 
-Funcionamiento sintetizador:
-Moog
-r - atenua
-c - filtra
+### Funcionamiento sintetizador:
 
-VCC : voltaje de alimentacion directa
+**Moog:**
 
-hago algo
-se prende
++ r - atenua
++ c - filtra
 
-Interruptor:
-
-no hago nada -> se apaga
-
-Qué hace:
-momentáneo - dura en el tiempo
-
-Capacitor - inductor (hace lo contrario)(no lo vamos a ver en el curso)
-capacitor: detectar solamente las diferencias (ej: leer las noticias de hoy)
+**VCC:** voltaje de alimentación directa
 
 
-Componentes electrónicos y símbolos
+### Interruptor:
+
++ hago algo -> se prende
++ no hago nada -> se apaga
+
+Puede ser momentáneo o perdurar en el tiempo.
+
+### Capacitor:** detectar solamente las diferencias (ej: leer las noticias de hoy).
+
+Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
+
+
+Anexo: Componentes electrónicos y símbolos
+
+
  
+https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/ 
