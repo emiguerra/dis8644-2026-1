@@ -1,6 +1,12 @@
 # sesion-01b
 
-Todo se graba! Con commit changes > commit message: el título que sea.
+Todo se graba! Con commit changes > commit message: el título que sea
+
+## apuntes de la clase:
+
+![apuntes conceptos página 1](./imagenes/01b-1.jpg)
+
+![apuntes conceptos página 2](./imagenes/01b-2.jpg)
 
 ## encargo-01b: The Internet's Own Boy - Aaron Swartz Full Documentary
 
