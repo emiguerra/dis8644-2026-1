@@ -1,5 +1,9 @@
 # sesion-04a
 
+## Apuntes ##
+
+La clase inicio con un pequeño resumen / repaso sobre algunos términos y conceptos, donde lo que más destaco es la tabla con las potencias de 10 (la cual tengo en mi bitacora física pero no tan bonita como acá) 
+
 |                           | Potencia de 10  | prefijo | abreviatura |
 | ------------------------- | --------------- | ------- | ----------- |
 | 1 000 000 000 000 000 000 | $10^{18}$       | Exa     | E           |
@@ -19,5 +23,26 @@
 | 0.000 000 000 001         | $10^{-12}$      | pico    | p           |
 | 0.000 000 000 000 001     | $10^{-15}$      | femto   | f           |
 | 0.00 000 000 000 000 001  | $10^{-18}$      | atto    | a           |
+
+<br>
+
+Lo siguiente que revisamos fue una variación del circuito anterior (Un Astable que se conectaba a un Monostable), donde se inicia con un Monostable que llega a un Astable.
+
+![](./imagenes/.jpg)
+
+1. Lo primero que debemos entender para llevar a cabo este circuito, es que hace cada uno
+  
+  a)  El Astable : En el output recibimos una corriente que alterna entre _on_ y _off_
+ 
+  b)  El Monostable: Al presionar el interruptor la energía sigue circulando un tiempo desde que se suelta el switch.
+
+2. Entonces para conectar el circuito _B_ al _A_ vamos a tomar el pin 3 del Monostable y conectarlo al pin _Reset_, es decir al n°4
+
+3. Ahora cada vez que pulsemos el switch, la energía circula por un tiempo determinado donde el Astable, para luego emitir la corriente en ondas cuadradas hasta el parlante
+
+> Una pequeña acotación es la particularidad del sonido, muy similar a como suena una ambulancia
+
+<br>
+
 
 <https://www.falstad.com/circuit/>
