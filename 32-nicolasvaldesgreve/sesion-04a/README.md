@@ -52,3 +52,23 @@ Luego de recordar eso, la verdad me hizo bastante sentido que sea un hamster ya 
 Como solo hay una pila y son tres hamsters diminutos dentro, un hamster se encarga de recibir toda la energía que le puede dar la pila y ayuda a distribuirla a sus demás compañeros mediante una rueda para correr, la que genera más energía mediante el movimiento, por lo que si éste hamster deja de correr aunque sea por un segundo, sus compañeros pierden la energía lo que explica el por qué suele fallar a veces el mouse por momentos cortos y luego vuelve a la normalidad. Éste trabajo es bastante agotador, por lo que cuando uno deja de usar el mouse, éste hamster se va a descansar y cuesta bastante que responda de manera inmediata cuando uno enciende el mouse ya que está constantemente agotado, lo cual explica el por qué cuando uno enciende el mouse a veces tiene que clickear varias veces seguidas para que logre responder.
 
 Gracias al hamster de la energía, sus dos compañeros pueden realizar sus labores sin problemas, una de éstas siendo la de identificar qué movimientos está haciendo el humano con el dispositivo, qué lugares presiona y en qué dirección mueve la rueda del mouse. El hamster que se encarga de ésto va documentando todo de manera extremadamente rápida y se lo va transmitiendo a su otro compañero que está a cargo de mandar todas las señales al computador al que está conectado el mouse, por lo que tiene un mini computador conectado por bluetooth al USB que está enchufado a nuestro pc, lo que les ahorra el trabajo de tener que salir de la carcasa del mouse y tener que informar cada movimiento que hace el humano a los otros hamsters que están dentro del computador haciendo el mismo trabajo que ellos hacen dentro del mouse, solo que a mayor escala.
+
+### Mouse destripado
+
+Cuando abrí el mouse, me alegré de que no habían hamsters siendo explotados laboralmente de manera injusta, y me encontré con una PCB y un resorte de metal el cual al inicio no supe cómo volver a posicionar ya que no me di cuenta de que se había salido de su lugar al momento de abrirlo pero al final lo pude solucionar, ya que me di cuenta de que era parte de donde va la pila.
+
+![Mouse abierto, sin hamsters dentro pero con mucho polvo](./imagenes/mouse-abierto.jpg)
+
+Luego de mirar por un rato la PCB, me di cuenta de que no pude reconocer varios elementos pero los que sí conocía fueron los siguientes:
+
+- LED, el cual me sorprendió el tamaño para una PCB tan chiquitita y se me hizo tierno por alguna razón.
+- Chip el cual dice en la parte superior OM16 y tiene 8 pins.
+- Botones, 3 en total.
+- Rueda (que no incluye ningún hamster).
+- Resistencias diminutas.
+
+Lo primero que me sorprendió fueron los botones, los cuales dos de ellos estaban obviamente al inicio de la carcasa inferior del mouse e interactuan con la parte superior al momento de presionar uno de los dos costados superiores de la carcasa, pero me di cuenta de que el tercero estaba al costado de la rueda, la cual tenía una extrusión la cual permite hacer contacto con el botón al momento de ejercer fuerza en la rueda generando así el click de la ruedita que usamos, y puede sonar tonto pero nunca pensé que funcionaría así, ya que creía que el botón de la rueda se ubicaba de manera simple abajo de ésta, y así al momento de presionarla se pasaba a llevar el botón inferior. Aquí dejo una foto en donde se ve más claro a lo que me refiero.
+
+![PCB de más cerca](./imagenes/mouse-vsuperior.jpg)
+
+La verdad me dio un poco de pena el no poder reconocer tantos elementos de la PCB a pesar de que en la misma placa hay textos diciendo lo que son como lo es en el caso del led que dice a su costado LED y señala el positivo y negativo de éste, pero me alegro de que por lo menos aprendí cómo es que se ve por dentro un mouse.
