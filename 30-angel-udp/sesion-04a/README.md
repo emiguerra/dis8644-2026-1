@@ -55,3 +55,41 @@ Entre el Condensador de salida y el parlante
 + No hacerlo con nada enchufado
 
 Que es lo superficial, que es lo interno escondido y como funcionan sus partes
+
+---
+
+### Desarrollo Encargo
+
+0. No se me ha destruido ningun Chip 555 pero si debo comentar que en un punto construllendo el circuito Monostable se calento tanto que casi me quemaba el dedo
+
+1. El objeto que escogí para sacrificar se llama: **Controlador RGB** que es un control el cual usaba para cambiar las luces de un color a otro en una lampara y tambien su intencidad
+
+![ladofrontal](./imagenes/ladofrontal.jpg)
+
+![ladoposterior](./imagenes/ladoposterior.jpg)
+
+**EN EL EXTERIOR**
+
+- Carcaza protectora: Protege todo lo que está adentro
+
+- Botones de plástico: Panel de mando multi color "los que preciono para acionar el color de la lampara"
+
+**EN EL INTERIOR**
+
+- Placa verde: PCB "Printed Circuit Board" que es una placa donde los circuitos electricos están impresos en vez de cables sueltos
+
+- Pasta seca negra y brillante: Chip cubierto por resina **Epóxica** "material plástico duro que se usa para proteger y aislar componentes electrónicos" **COB** "Chip On Board", evita daños como golpes, polvo, humedad y hace que sea más barato fabricar el control
+
+- LED: Encia señal al controlador del bombillo led
+
+- Sobresalientes metálicos: Portapilas y pila, da energía al control
+
+- circulos negros debajo de los botones: Contactos metálicos de los botones "puentes eléctricos"
+
+**¿Cómo obtiene energía?**
+
+De la pila que parece una moneda y que en este caso es una CR2025, se llama así porque **CR** indica el tipo de batería de litio (aparece Litium Battery 3V) y **2025** describe su tamaño (20mm de diámetro y 2,5 mm de grosor), La energía viaja por el circuito metalico de la placa verde hasta activar el chip.
+
+**¿Cómo funciona?**
+
+Se juntan los contactos metálicos y el chip detecta qué botón fue, luego este envía una señal al LED infrarrojo que viaja por el aire hasta que el controlador LED del bombillo recibe la orden y cambia el color o brillo.
