@@ -36,9 +36,13 @@ https://github.com/user-attachments/assets/2c9f7b53-fa45-42c1-a891-21f487c01d55
 
 ![foto](./imagenes/tabla.png)
 
+---
+
 También nos mostraron Falstad que sirve para armar circuitos virtuales (como con protoboard) y ver cómo funcionan en tiempo real: puedes poner resistencias, capacitores, chips, LEDs, etc., y observar cómo circula la corriente o cómo cambian las señales.
 
 https://www.falstad.com/circuit/
+
+---
 
 ### Pinout chip 555
 
