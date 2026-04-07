@@ -100,15 +100,15 @@ Acá pongo imagenes de como tiramos el boceto y luego siguiendo el esquema dado 
 
 Matuvimos y repasamos el circuito aprendido en clase e hicimos el inteto siguiendo el nueco esqueme da agregarle los 2 switches mas las resistencias
 
-![ejemplo 1](./imagenes/esquema_toyorgan.png)
+![ejemplo 1](./imagenes/esquema-toyorgan.png)
 
 ![ejemplo 2](./imagenes/avance1.png)
 
 ![ejemplo 3](./imagenes/avance2.png)
 
-![ejemplo 4](./imagenes/circuito_toyorgan.jpeg)
+![ejemplo 4](./imagenes/circuito-toyorgan.jpeg)
 
-![ejemplo 5](./imagenes/circuito_organ_esquema.png)
+![ejemplo 5](./imagenes/circuito-organ-esquema.png)
 
 Documental: Variaciones Espectrales
 
