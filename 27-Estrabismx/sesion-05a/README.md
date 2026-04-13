@@ -4,31 +4,165 @@
 
 ### Compuertas lógicas ###
 
-[Hablar sobre sus partes, tales como las entradas inversoras]
+Estan basasadas en la algebra booleana. En simple palabras son sistemas que al recibir 2 input generan un output dependiente de que sistema hablamos. Un ejemplo de esto es la compuerta AND, la cual para tener un outpot positivo (_1_), dependemos de que ambos input sean tambien positivos.
 
-#### Algebra de Bool ####
+Otra manera más técnica sería: _"Es una conjunción lógica que resulta verdadera si y solo si todas sus premisas son verdaderas."_
 
-### Chips 4093 - 386 ###
+#### AND ####
+
+Ya se explicó anteriormente, pero en resumen, su output es 1 exclusivamente cuando A y B son 1, para el resto de los casos es 0
+
+![Simbolo compuerta AND](./imagenes/and2.png)
+
+<br>
+
+#### OR ####
+
+Su salida será 0 siempre que A y B lo sean, para el resto de casos es 1
+
+![Simbolo compuerta OR](./imagenes/or.jpg)
+
+<br>
+
+#### NOT ####
+
+La lógica de esta compuerta radica en la negación, si recibe un 1 saldrá un 0
+
+![Simbolo compuerta NOT](./imagenes/not.jpg)
+
+<br>
+
+### Chips Nuevos ###
+
+#### Chip 4093 ####
+
+Se compone de 4 compuertas NAND, que es la unión de una AND y una NOT, es decir que convierte la salida normal de AND y la invierte, por ejemplo si el output AND es 0 luego de pasar por NOT, se convierte en 1.
+
+Sus pines se distribuyen asi:
+
+| Pin | Función      | 
+| --- | ------------ | 
+|  1  | 1er NAND (A) |
+| 2   | 1er NAND (B) |
+| 3   | 1er NAND (Y) |
+| 4   | 2do NAND (Y) |
+| 5   | 2do NAND (A) |
+| 6   | 2do NAND (B) |
+| 7   | Ground       |
+| 8   | 3er NAND (A) |
+| 9   | 3er NAND (B) |
+| 10  | 3er NAND (Y) |
+| 11  | 4to NAND (Y) |
+| 12  | 4to NAND (A) |
+| 13  | 4TO NAND (B) |
+| 14  | VCC          |
+
+![Chip 4093](./imagenes/4093.png)
+
+>Es importante al momento de utilizarlo que se conecte un Capacitor de 100 μF para que sirva de _amortiguador_ y que el _ruido_ de la corriente no queme el chip
+
+<br>
+
+#### Chip LM386 ####
+
+Su función es la de amplificar
+
+Este chip se diseño para uso más pedagógico, debido a la posibilidad de trabajar de mejor manera con baterías de 9v y Parlantes de 8Ω, elementos tradiciones en los kits DIY
+
+![Chip LM386](./imagenes/lm386.webp)
+
+| Pin | Función                   | 
+| --- | ------------------------- | 
+|  1  | Gain                      |
+| 2   | Invertign Input (-)       |
+| 3   | Non - Inverting Input (+) |
+| 4   | Ground                    |
+| 5   | Outpu                     |
+| 6   | VCC                       |
+| 7   | By Pass                   |
+| 8   | Gain                      |
+
+>Si se conecta el pin 1 y 8 mediante un capacitor de 10μF la ganancia pasa de 20 a 200
+>
+>>La ganancia es la relación matemática entre la magnitud de la salida y la magnitud de la entrada
+>>
+>>> **Ganancia baja (20)**: Se usa cuando la señal de entrada ya es relativamente fuerte (como la salida de un teléfono o computadora). Evita que el sonido se distorsione rápidamente
+>>>
+>>> **Ganancia alta (200)**: Se usa para señales muy débiles, como las de un micrófono o una guitarra eléctrica. Al aumentar tanto la señal, el chip se vuelve más propenso a captar ruido o a "saturar" (cortar la onda), lo que genera distorsión
+
+<br>
 
 ### Sonido y sus alteraciones ###
 
-#### Filtro ####
+En los circuitos que estamos conociendo y probando se puede concluir que tanto Resistencias y Capacitores afectan al sonido, mediante algo similar a un filtro
 
-#### Variaciones / Oscilaciones ####
+### Sintetizadores ####
+
+Se componen de diferentes módulos, siendo 4 principalmente:
+
+<br>
+
+#### 1. Oscilador / VCO ####
+
+Convierte una onda constante y _fome_ a una más compleja, teniendo 4 principales formas:
+
+
+
+a. Sinusoidal: Esta basada en el concepto trigonométrico del Sin (seno), por lo que son curvas .
+
+b. Triangular: Es una onda con forma triangular, esto genera que sus cambios sean _difuminados_, pero rápidos a la vez
+
+c. Square: Posee forma cuadrada, por lo que presenta alteraciones directas entre el monte y el valle 
+
+d. Saw: Se considera el tipo de onda más compleja, por su forma de sierra
+
+![Tipos de onda](./imagenes/onda.jpeg)
+
+> Se pueden controlar mediante VC
+
+<br>
+
+#### 2. Filtro ####
+
+Un filtro eléctrico o filtro electrónico es un elemento que elimina una determinada frecuencia o gama de frecuencias de la señal eléctrica que pasa a través de él, pudiendo modificar tanto su amplitud como su fase. Los filtros electrónicos son particularmente importantes en la síntesis substractiva y están controlados a menudo por una envolvente o un LFO. Tenemos tres tipos fundamentales: de paso alto, de paso bajo o de paso de banda.
+
+#### 3. Amplificadores / VCA ####
+
+Aumenta la ganancia de una onda eléctrica en función de un voltaje de control, puede decirse que hace lo contrario a los filtros. El voltaje que sirve de control en el funcionamiento puede provenir de un generador de envolventes o un LFO.
+
+<br>
+
+#### 4. Generadores de envolventes / ADSR ####
+
+Cuando se genera un sonido, se producen variaciones en la potencia y en el contenido del sonido a lo largo del tiempo. Las fases por las que pasa la ejecución de un sonido a lo largo del tiempo se denominan:
+
+1. **A**ttack: Es el tiempo de entrada. La forma en que va aumentando la potencia del sonido desde que se toca la nota hasta que alcanza su máximo
+
+2. **D**ecay: Una vez alcanzado el máximo en la intensidad del sonido éste baja ligeramente hasta llegar un punto en que se estanca
+
+3. **S**ustain: La intensidad en este punto permanece constante mientras se mantiene la ejecución de la nota
+
+4. **R**elease: El tiempo y la forma en que va desvaneciéndose el sonido una vez que dejamos de tocar la nota
+
+![Gráfico](./imagenes/adsr.webp)
+
+<br>
 
 #### Apartado siglas ####
 
-- VCC
+- VCC: Voltage Common Collector (Fuente de energía)
 
-- VC
+- VC: Voltage Control ()
 
-- VCA
+- VCA: Voltage Controlled Amplifier (Amplificador)
 
-- VCO
+- VCO: Voltage Controlled Oscillator (Oscilador)
 
-- DAC
+- DAC: Digital-to-Analog Converter (Conversor de señal digital a análoga)
 
-- ???
+- LFO: Low Frecuency Oscillator (Oscilador de baja frecuencia)
+
+<br>
 
 ### VCV RACK###
 
