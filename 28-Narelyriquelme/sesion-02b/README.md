@@ -1,5 +1,5 @@
 # sesion-02b
-## Apuntes
+## Apuntes 20 mar
 hoy dia nos entregaron otros componentes como el condensador, el ceramico, el fotoresistor y un circuito integrado ic, aqui su definicion:
 ### 1. Capacitor (Condensador)
 ​Es un componente diseñado para almacenar energía en forma de un campo eléctrico. Actúa de forma similar a una pequeña batería temporal: se carga cuando recibe corriente y se descarga cuando el circuito lo requiere. Se utiliza comúnmente para filtrar señales, estabilizar voltajes o bloquear el paso de la corriente continua permitiendo solo la alterna. 
