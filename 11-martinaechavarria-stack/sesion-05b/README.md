@@ -10,3 +10,4 @@ En la clase hicimos el circuito secuenciador musical con el chip 4017 y nes555. 
 **datos nuevos**
 -EL circulo en los esquemas significa que el chip, hace lo que quiere, no depende de nosotros si escucha los comandos o no.
 -La flecha significa una conexión con otro circuito.
+[Esquema Circuito]imagenes/captura-de-pantalla-2026-04-10-a-las-11-49-09.png
