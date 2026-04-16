@@ -144,9 +144,7 @@ Este experimento (realizado en 1951) consistió en entrar a una cámara anecoica
 
 incluso en una sala aislante de ruido y él aguantando la respiración, no logró alcanzar el silencio absoluto. Concluyendo que el silencio no existe, sino que es un constructo.
 
-fuente: Irina Mishina
-
-<https://irinamishina.com/es/2013/09/23/como-john-cage-descubri-que-el-silencio-no-existe/#:~:text=En%201951%20John%20Cage%2C%20uno,sonidos%20que%20nos%20pueden%20rodear.> 
+fuente: [Irina Mishina](https://irinamishina.com/es/2013/09/23/como-john-cage-descubri-que-el-silencio-no-existe/#:~:text=En%201951%20John%20Cage%2C%20uno,sonidos%20que%20nos%20pueden%20rodear.)
 
 
 
@@ -186,11 +184,11 @@ Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
 
 ### Anexo: Componentes electrónicos y símbolos
 
-![componentes](./componentes-electronicos-y-sus-simbolos.jpg)  
+![componentes](./imagenes/componentes-electronicos-y-sus-simbolos.jpg)  
 [Fuente](https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/)
 
 jejeje  
-![componentes](./componentes-minecraft.jpg)  
+![componentes](./imagenes/componentes-minecraft.jpg)  
 HammerSpider (cuenta de instagram)
 
 
