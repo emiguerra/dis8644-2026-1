@@ -1,6 +1,6 @@
 # sesion-03a
 
-Recomendaciones: Editorial matar Chile  
+Recomendación: Editorial matar Chile  
 
 **Los multivibradores astables y monoestables son circuitos generadores de pulsos, comúnmente basados en el _Chip integrado 555_.**
 
@@ -153,12 +153,13 @@ David Tudor (1926–1996) fue un pianista y compositor estadounidense, ampliamen
 
 fuente: su [página de wikipedia](https://es.wikipedia.org/wiki/David_Tudor)
 
-Steim Slaapkamer Muziek (16/06/1994)
+Video de **Steim Slaapkamer Muziek (16/06/1994)**
 [video](https://www.youtube.com/watch?v=Fo30MgBRQO0)
 
 
 Matt (no anoté el apellido...) oscilador victoriano (macumbista)
 
+---------------------------------------------------------------
 
 ### Funcionamiento sintetizador:
 
@@ -177,7 +178,8 @@ Matt (no anoté el apellido...) oscilador victoriano (macumbista)
 
 Puede ser momentáneo o perdurar en el tiempo.
 
-### Capacitor:** detectar solamente las diferencias (ej: leer las noticias de hoy).
+### Capacitor: **detectar solamente las diferencias  
+(ej: leer las noticias de hoy).
 
 Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).  
 
