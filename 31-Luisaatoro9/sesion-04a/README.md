@@ -108,8 +108,6 @@ La clave fue interconectar dos bloques del Chip NE555P para que el estado lógic
 | 10k Ω\\OmegaΩ | Marrón - Negro - Naranja | 1 - 0 + tres ceros (10.00010.00010.000) |
 | 100k Ω\\OmegaΩ | Marrón - Negro - Amarillo | 1 - 0 + cuatro ceros (100.000100.000100.000) |
 
-📝Ejemplo:
-
 📝 Ejemplo: Si ves Rojo - Rojo - Marrón:
 
     Rojo = 2
