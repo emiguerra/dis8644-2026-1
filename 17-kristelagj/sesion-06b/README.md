@@ -42,6 +42,8 @@ Siguiente con “Precaria” (así se llama nuestro sintetizador), uno de nuestr
 
 Nos tuvimos que movilizar al MUT para realizar nuestro trabajo ya que a Santi no lo dejaron pasar en la universidad y fue bien interesante, ya que por un lado él conocía ese lugar y la reacción de las personas. Muchas se nos quedaban viendo, una nos preguntó que estudiamos y cuando respondimos que diseño gráfico se sorprendió. Peso que responderemos informática o robótica. Es más, hasta el guardia de la tienda que estaba enfrente salió a preguntar qué estaba pasando y que sonaba así.  Fue un experimento social interesante, pero nadie nos miró reacio o nos fueron a callar. 
 
+![mut](imagenes/mut.jpeg)
+
 https://github.com/user-attachments/assets/ce94da03-1912-4ed0-80ac-66c90f4f7105
 
 https://github.com/user-attachments/assets/f6e760ce-8517-45a6-bcea-ec93ab60e47b
