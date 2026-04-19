@@ -13,9 +13,7 @@ Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 
 **VCV RACK:** es un sintetizador modular virtual de código abierto y gratuito que emula el funcionamiento de sistemas hardware tipo Eurorack en tu ordenador. Permite crear sonidos complejos conectando virtualmente módulos (osciladores, filtros, efectos) mediante cables. Es ideal para aprender síntesis, diseñar sonidos y crear música sin coste inicial.
 
-![vcv rack](imagenes/vcv-rack.png)
-
-
+![vcv rack](imagenes/vcv-rack.jpg)
 
 
 | Sigla | Nombre completo                          | Descripción                                                                 | Función principal                          | Parámetro controlado     |
