@@ -8,6 +8,8 @@ Antes de comenzar con el teloneo, había colocado a Genesis, banda la cual estab
 Invisible touch (tema principal del albúm) https://www.youtube.com/watch?v=epOBenUjIHw
 It's Gonna Get Better (tema del albúm Génesis) https://www.youtube.com/watch?v=wgGIh9DA-Jk&list=PLWnwFAnZO1AHnVyPqRMvJ2QWgXOqRs0Sn&index=5
 
+![catenaria](imagenes/catenaria.jpg)
+
 La clase comenzó con misaa hablándonos de un libro de Karen Barat "Encontrarse con el universo a medio camino" que en verdad llamó mi atención, además de tener una falta ortográfica en la parte trasera. Gracias a esto, me dejó con grandes frases:
 
 - Desde el encuentro con las cosas viene la creatividad
