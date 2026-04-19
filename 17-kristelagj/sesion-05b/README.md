@@ -29,6 +29,8 @@ Esta parte de la clase fue mucho más rápida y realizamos mucho trabajo en grup
 
 Hoy implementamos el chip 4017
 
+
+
 - Contador de décadas es de Q0 a Q9
 
 ### imagenes de proceso
