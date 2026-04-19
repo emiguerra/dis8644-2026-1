@@ -1,91 +1,90 @@
 # sesion-04b
 
-## Apuntes de clases
+07-04-2026
 
+## Apuntes de clases
 Miramos VCV Rack y Modulargrid.net
 
-Euro rack una manera de hacer sintetizadores y otras formas son Moog Unit
+Euro rack, una manera de hacer sintetizadores, y otras formas son Moog Unit
 
-Gesto control dale comoloensayamos -> Voltaje a Euro Rack -> Oscilador (Microtone) -> Filtro - VCA -> RC Parlante
+Gesto control, dale como lo ensayamos -> Voltaje a Euro Rack -> Oscilador (Microtone) -> Filtro - VCA -> RC Parlante
 
 Poiesis <20Hz :(
 
 - 11 :)
-
 - 10 :)
-
 - 01 :)
-
 - 00 :(
 
-En vez de comprar EuroRack lo hacemos Gratis con VCV RACK
+En vez de comprar EuroRack, lo hacemos gratis con VCV RACK
 
 Descargué VCV Rack
 
-Algunos tinen borde negro y otros no porque son entradas y salidas, se enciende una "GATE" compuerta cuando suena 
+Algunos tienen borde negro y otros no, porque son entradas y salidas; se enciende una "GATE" (compuerta) cuando suena
 
-- Oscilador VCO = VC controlado por voltaje 
-
-- Los VCO podemos controlar "Porque suenan"
-
-- LFO = Oscilador "Low" Baja frecuencia (para hacer modulaciones, cambios entorno a un punto)
-
-- VCD = Voltaje Corriente directa
-
+- Oscilador VCO = VC controlado por voltaje
+- Los VCO podemos controlar "por qué suenan"
+- LFO = Oscilador "Low", baja frecuencia (para hacer modulaciones, cambios en torno a un punto)
+- VCD = Voltaje corriente directa
 - VCF
 
----
+Vamos a condicionar que algunas patas de los chips, algunas sean entradas y otras sean salidas
 
-Vamos a condicionar que algunas patas de los chips algunos sean entradas y otros sean salidas
+Si le hacemos click derecho a la pantalla de VCV Rack, se abre una variedad de opciones
 
-Si le hacemos Click derecho a la pantalla de VCV Rack se abren variedad de opciones
-
-Los chips DAC convierte lo digital a la realidad analoga
+Los chips DAC convierten lo digital a la realidad analógica
 
 CONECTAMOS VCO a AUDIO en VCV Rack
 
 4 salidas distintas
 
-- Sin = Onda Seno
-
-- Tri = es como una onda triangular (suena mas chillona)
-
-- Saw = cierra (porque tiene dorma de onda diente de cierra)
-
-- SQR = Square (Tipo de onda Cuadrada)
-
+- Sin = Onda seno
+- Tri = es como una onda triangular (suena más chillona)
+- Saw = sierra (porque tiene forma de onda diente de sierra)
+- SQR = Square (tipo de onda cuadrada)
 - VCA = es como alguien que dice que le suba o baje el volumen
 
-Lógica es una rama de la filosofia
+Lógica es una rama de la filosofía
 
-es la pregunta por el logos, por la razón y como opera
+Es la pregunta por el logos, por la razón y cómo opera
 
-Se aplico por un señor lógico y matemático llamado BOOLE - ÁLGEBRA
+Se aplicó por un señor lógico y matemático llamado Boole - álgebra
 
-en simple existen el signo suma OR **"o"**y el signo de multiplicar AND **"y"** y el negativo **"-"** "not"
+En simple, existen el signo suma OR "o" y el signo de multiplicar AND "y", y el negativo "-" "not"
 
-0 -> Conocido como tierra y 1 -> Conocido como 9v
+0 -> Conocido como tierra y 1 -> Conocido como 9V
 
-Compuetas:
+Compuertas:
 
-AND = Redondeada siempre esta apagado a no ser que las 2 estén prendidas, es mas lineal
+AND = redondeada, siempre está apagado a no ser que las 2 estén prendidas, es más lineal
 
 OR = redondo y puntiagudo, hay 2 opciones
 
-NOT = Triengulo con punto
+NOT = triángulo con punto
 
-NAND = Lo contrario de AND
+NAND = lo contrario de AND
 
-CLK = Clok, Temporizador
+CLK = Clock, temporizador
 
 eoc significa: En Otro Caso
 
 Cuando X es 0 -> No oscila
 
+Pasaremos al chip 4093
 
-### Pasaremos al chip 4093
+Usaremos resistencias y condensadores para variar la frecuencia
 
-Usaremos resistencis y condensadores para variar la frecuencia
+Y acá unas fotos de lo que hicimos en clases:
+
+![ejemplo 1](./imagenes/ejemplo1.jpg)
+
+![ejemplo 2](./imagenes/ejemplo2.jpg)
+
+![ejemplo 3](./imagenes/ejemplo3.jpg)
+
+![ejemplo 4](./imagenes/ejemplo4.jpg)
+
+En esto nos funcionó el sonido sin problemas, pero sí nos dimos cuenta de que la breadboard tenía cuatro líneas metálicas por dentro que transportan los electrones y estaban separadas, entonces en la tabla de la breadboard hay que conectarlas juntas en positivo y juntas en negativo con unos jumpers.
 
 ### Tarea
 
