@@ -46,11 +46,11 @@ Cómo funciona el conteo binario:
 
 ## Ejercicio en clase: Clock Generator
 
-Junto a Anays Cornejo, realizamos un ejercicio explicado por Misa en clase. Este consistía en construir un circuito secuenciador donde varios LEDs se encienden en distintos tiempos.
+Junto a Anays Cornejo, hicimos el ejercicio explicado por Misa en clase. Este era en construir un circuito secuenciador donde varios LEDs se encienden en distintos tiempos.
 
-Al principio el circuito no funcionaba y no entendíamos por qué. Consultamos a Aarón e hicimos algunos cambios, pero siguió sin funcionar. Luego Misa revisó el circuito, hicimos más ajustes y aún así no obteníamos resultados.
+Al principio el circuito no funcionaba y no entendíamos por qué. Le preguntamos a Aarón e hicimos algunos cambios, pero seguia sin funcionar. Luego Misa revisó el circuito, hicimos más cambios y aún así no pasaba anda.
 
-Finalmente, descubrimos que el problema era el chip: estaba dañado. Reemplazamos el 4017 por uno nuevo y el circuito funcionó correctamente.
+Finalmente, descubrimos que el problema era el chip, estaba malo. Reemplazamos el 4017 por uno nuevo y el circuito funcionó correctamente.
 
 ### Resultado
 
