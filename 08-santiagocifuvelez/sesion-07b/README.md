@@ -20,15 +20,15 @@
    <br>
 
 Hola! Bienvenidxs a la presentación de nuestro solemne 01.   
-Antes de partir, quiero agradecerles a mis compañeras por su esfuerzo y compromiso con el proyecto.
+Antes de partir, quiero agradecerles a mis compañeras por su esfuerzo y compromiso con el proyecto.  
 Hicimos algo mágico.
 
 Veamos lo que nos espera a continuación:  
 
 **1.	Manual de construcción de “Precarias”.**  
-  1.1	Esquemático.  
-  1.2	Construcción de proto con los chips: 555, 4017, 4093 y 386.   
-  1.3	Carcasa: materiales, zonas, (maqueta). Explicación de decisiones y diseño.  
+  - 1.1	Esquemático.  
+  - 1.2	Construcción de proto con los chips: 555, 4017, 4093 y 386.   
+  - 1.3	Carcasa: materiales, zonas, (maqueta). Explicación de decisiones y diseño.  
 
 **2.	Manual de uso de “Precarias”.**
 
