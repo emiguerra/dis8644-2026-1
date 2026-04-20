@@ -52,6 +52,8 @@ Al principio el circuito no funcionaba y no entendíamos por qué. Le preguntamo
 
 Finalmente, descubrimos que el problema era el chip, estaba malo. Reemplazamos el 4017 por uno nuevo y el circuito funcionó correctamente.
 
+![clock generator](./imagenes/clock-generator-clase.png)
+
 ### Resultado
 
 https://github.com/user-attachments/assets/c30e37ca-c760-4df6-aeda-6f777cbaafc6
