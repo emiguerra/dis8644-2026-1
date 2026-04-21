@@ -1,13 +1,5 @@
 # sesion-06a
 
-## Faltante ##
-
-**1. Definición del ejercicio**
-
-**2. Organigrama Trabajo grupal**
-
----
-
 ## Apuntes clase 14 de Abril ##
 
 ### 30 minutos ###
