@@ -15,7 +15,6 @@ Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 
 ![vcv rack](imagenes/vcv-rack.jpg)
 
-
 | Sigla | Nombre completo                          | Descripción                                                                 | Función principal                          | Parámetro controlado     |
 |-------|------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------|
 | VCA   | Amplificador Controlado por Voltaje      | Ajusta la ganancia de una señal de audio según un voltaje externo          | Controlar el volumen/amplitud              | Ganancia (amplitud)      |
@@ -59,6 +58,9 @@ RITMO Y FRECUENCIA ES LO MISMO
 | 1 |   0    |
 
 1 significa nivel alto (HIGH) y 0 nivel bajo (LOW). Tambien podria ser 1 es que se entrega voltaje y 0 no se entrega voltaje, osea inactivo. 
+
+![compuertas](imagenes/compuertas-logicas.jpg)
+
 
 ### imagenes de proceso
 
