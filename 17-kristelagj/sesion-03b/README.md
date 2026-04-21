@@ -25,8 +25,6 @@ https://es.wikipedia.org/wiki/Astable#:~:text=En%20electr%C3%B3nica%2C%20un%20as
 
 https://tecnosinergia.zendesk.com/hc/es/articles/16693654927771-Conoce-las-diferencias-entre-un-circuito-monoestable-y-uno-biestable#:~:text=Es%20un%20circuito%20que%20tiene,temporizadores%20y%20circuitos%20de%20retardo. 
 
-### imagenes de proceso
-
 ### post-clase
 
 Me quedo pendiente de ver el documental. Aún pendiente!

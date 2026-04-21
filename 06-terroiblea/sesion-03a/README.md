@@ -2,7 +2,7 @@
 
 Martes 24 de Marzo, 2026.
 
-Nota del día:
+Nota del día: eee. 
 
 ## Referentes (y otras cosas)
 
@@ -154,7 +154,7 @@ Hoy trabajamos con la salida del circuito astable del 555, que era originalmente
 
 Después vimos los efectos de cambiar una resistencia y un capacitor en el circuito, y cómo afecta la frecuencia de oscilación del circuito.
 
-(pendiente subir fotos porque no las tengo (╥﹏╥))
+(las fotos del proceso están junto a las fotos del circuito del encargo!!)
 
 ## Encargo-03a
 
@@ -164,7 +164,9 @@ Expandir el circuito usado, agregando más interruptores para crear el circuito 
 
 ![encargo01_diagrama](./imagenes/encargo01.png)
 
-A mi todavía me cuesta un poco seguir los esquemas, más bien es mi grupo de trabajo el que siempre me enseña o ayuda a realizar estas partes del trabajo. En este caso, la vania y el nico me ayudaron a seguir el esquema y me prestaron también sus botones para poder tener una mayor cantidad. Más que nada me siguen confundiendo ciertas conexiones. 
+![encargo](./imagenes/encargo.png)
+
+A mi todavía me cuesta un poco seguir los esquemas, más bien es mi grupo de trabajo el que siempre me enseña o ayuda a realizar estas partes del trabajo. En este caso, la vania y el nico me ayudaron a seguir el esquema y me prestaron también sus botones para poder tener una mayor cantidad. Más que nada me siguen confundiendo ciertas conexiones (cuando van cosas juntas en más de un pin por ejemplo, cuando se conectan los circulitos y cosas así). 
 
 ### Variaciones espectrales 
 
@@ -201,7 +203,7 @@ Algo interesante es que no era solo una máquina sino que era una extensión del
 
 El documental me deja dando vuelta una frase que vi anteriormente: “El progreso no siempre se pierde por falta de talento, sino por falta de memoria”. Y eso me hizo mucho sentido con un CFG que tuve el semestre pasado, donde veíamos cómo la memoria y el archivo son clave para conservar el pasado. Porque al final, lo que pasa con José Vicente Asuar es exactamente eso, no es que faltara talento (todo lo contrario), sino que faltó registro, difusión y valoración (sobre todo esta última parte). Chile tuvo a un pionero mundial en música computacional y, aun así, quedó medio perdido en la historia (y siendo honestos, todavía lo está, porque lamentablemente no es una figura tan conocida). Creo que bajo este contexto el COMDASUAR abandonado termina siendo casi una metáfora, ya que no solo es una máquina olvidada, es el reflejo de cómo se puede dejar botado todo un legado si no hay una cultura de memoria que lo sostenga (y lo valore/respete!). Esto se refuerza aún más con el contraste que muestra el documental, mientras en el extranjero a Jose se le reconoce como innovador y participó en espacios importantes, en Chile su obra está poco difundida y su figura queda relegada a nichos (e incluso buscando información sobre él no hay tanta como debería ser).
 
-PPor otro lado, considero que en el documental se deja claro una lectura más profunda y súper actual ya que Asuar no veía la tecnología como un reemplazo del artista, sino como una herramienta para potenciar la creatividad. Eso conecta mucho con las discusiones actuales sobre inteligencia artificial, donde muchas veces se plantea como una amenaza, cuando en realidad podría entenderse como un apoyo. Personalmente, siento que la IA no debería reemplazar al artista o al diseñador (que es algo que se ve mucho), sino facilitar ciertos procesos y abrir nuevas posibilidades creativas, tal como lo hacía Asuar con sus propias herramientas. En ese sentido, su forma de pensar estaba muy adelantada a su época, porque lo que él hacía en los años 60/70 hoy es prácticamente la base de la música digital (que es algo que pasa también con otros de los referentes que hemos visto en clases).
+PPor otro lado, considero que en el documental se deja claro una lectura más profunda y súper actual ya que Asuar no veía la tecnología como un reemplazo del artista, sino como una herramienta para potenciar la creatividad. Eso conecta mucho con las discusiones actuales sobre inteligencia artificial, donde muchas veces se plantea como una amenaza, cuando en realidad podría entenderse como un apoyo. Personalmente, siento que la IA no debería reemplazar al artista o al diseñador (que es algo que se ve mucho), sino facilitar ciertos procesos y abrir nuevas posibilidades creativas, tal como lo hacía Asuar con sus propias herramientas.
 
 ### Bibliografía
 

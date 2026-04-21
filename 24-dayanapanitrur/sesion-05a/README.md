@@ -2,9 +2,6 @@
 
 Apuntes clase 07 de Abril, 2026.
 
-Recomendaciones:
-Angine de Poltrine. Muy raros, pero como todas las recomendaciones, muy buenos.
-
 VCV Rack Free
 Un sintetizador modular virtual, ES GRATIS (sii, de nuevo, bendito internet!!).
 
@@ -14,16 +11,18 @@ En esta herramienta Matias nos mostrò como funciona el VCO, VCA, VCF Y LFO.
 + VCA: CONTROLA LA AMPLITUD
 + LFO: CONTROLA CICLICA Y REPETITIVAMENTE UN PARÁMETRO (como volumen o tono).
 
+## Lógica combinacional
 ### Tabla de verdad
 > muestra el valor de verdad de una proposición compuesta
-![tabla-de-verdad](./
 
 Compuertas lógicas: **AND** se representa con * (signo multiplicar) y **OR** con + (signo más) son dispositivos electrónicos básicos que procesar entradas binarias: 0 y 1.
 
 #### AND
-![tabla-and](./
+![tabla-and](./imagenes/compuerta-logica-and-tabla.jpg)
 
 #### OR
-![tabla-or](./
+![tabla-or](./imagenes/compuerta-logica-or-tabla.jpg)
 
-¿Que hace NAND? si tiene dos entradas no funciona, no prende (cabros, esto no pendió).
+#### NAND
+¿Que hace NAND? si tiene dos entradas no funciona, no prende.
+![tabla-or](./imagenes/compuerta-logica-or-tabla.jpg)

@@ -29,3 +29,8 @@ Un condensador (o capacitor) es un componente eléctrico pasivo que almacena ene
  4.- Un fotorresistor, también conocido como LDR (Light Dependent Resistor), es un sensor cuyo **valor de resistencia eléctrica disminuye al aumentar la intensidad de la luz que incide sobre él.** Fabricado con materiales semiconductores como el sulfuro de cadmio, su resistencia baja de valores cercanos al Megaohmio (MΩ) en la oscuridad a unos pocos cientos de ohmios con alta iluminación.
 
 5.- Un potenciómetro es una resistencia variable con tres pines que permite ajustar manualmente el voltaje o la corriente en un circuito, comúnmente usado para controlar volumen, brillo o velocidad.
+
+## Encargo 
+
+2. Repasando github.
+3. ¿Cada cuanto revisa las bitácoras? ¿Cómo era el comando para poner imágenes en las bitácoras?  ¿Por qué tenemos que nacer?¿Una vez que las bitácoras son revisadas volverán a ser revisadas desde el comienzo o ya se venció el plazo? ¿Cuenta subir links de un video para no cargarlo en el readme?

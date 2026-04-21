@@ -20,7 +20,7 @@ Es un proyecto de Chile (creado por Claudia González) que es un referente súpe
 En la sesión de hoy exploramos el trabajo de Circuito Sonoro Lab, un espacio de experimentación que se dedica a la creación de dispositivos sonoros electrónicos de forma artesanal.
 
 * **¿Por qué es relevante?:** Su enfoque en el Low-Tech y el uso de chips como el CD4093 (el mismo que estamos usando) demuestra que no se necesita tecnología carísima para crear texturas sonoras complejas.
-  🎹 ¿Cómo creas texturas con tu circuito?
+  ¿Cómo creas texturas con tu circuito?
 
 ¿Qué sifinifica hacer texturas ?
 
@@ -66,21 +66,7 @@ Primer ejercicio, para entender bien lo que estamos haciendo, decidí detallar c
  
  **Limpieza de señal:** Usamos varios capacitores electrolíticos (los que parecen botellitas) para quitar el ruido de la batería y para que el sonido que llega al parlante sea más estable.
 <img width="1275" height="769" alt="miPrimer4093" src="https://github.com/user-attachments/assets/7f316419-24ce-4339-b756-0adad1790156" />
-
-<img width="1275" height="769" alt="miPrimer4093" src="https://github.com/user-attachments/assets/5f7c7af5-77cb-4043-a4b9-e3681151b845" />
-https://github.com/user-attachments/assets/b0d29b5a-1f35-4cbe-a613-5b0bc88d6adc
-
-
-
-
-Segundo ejercicio en el cual 
 <img width="1275" height="380" alt="miSegundo4093" src="https://github.com/user-attachments/assets/3d0b8aac-fe42-4404-95e5-f6621e6225be" />
-
-
-
-
-
-
 
 3. Modulación: El "Director de Orquesta"
 
@@ -100,7 +86,7 @@ Hicimos una modificación clave conectando dos osciladores en cadena:
 
 Aprendimos que el VCV Rack es el simulador (software) donde probamos módulos virtuales, mientras que en el protoboard estamos armando el hardware real con cables y chips.
 
-🔊 Implementación Física vs. Simulación Virtual
+Implementación Física vs. Simulación Virtual
 
 En esta sesión comparamos el trabajo en el protoboard (Hardware) con el software VCV Rack (Software):
 1. Amplificador Físico: El Chip LM386
@@ -120,3 +106,13 @@ Usamos el software VCV Rack como una herramienta de experimentación modular.
 Conclusión: Mientras que en VCV Rack solo conectamos funciones, en el protoboard con el LM386 nos enfrentamos a desafíos físicos reales como la polaridad de los componentes, el ruido eléctrico y la gestión de la energía de la batería.
 
 * **VCV Rack (Sintetizador Modular Virtual**) Es el software que nos permite experimentar con el sonido sin necesidad de tener las máquinas físicas. Funciona por "módulos" que se conectan con cables virtuales. Es clave porque nos enseña que el sonido se puede separar en funciones (tono, volumen, timbre) y nosotros decidimos cómo mezclarlas.
+
+### Bibliografía
+
+* Braga, N. C. (s.f.). *Circuitos con el 4093*. https://www.newtoncbraga.com.mx/index.php/articulos/9-articulos-tecnicos-y-proyectos/2138-circuitos-con-el-4093-art302s
+* Circuito Sonoro Lab. (s.f.). *Circuito Sonoro Lab*. https://circuitosonorolab.com/
+* Sound On Sound. (s.f.). *Introduction to frequency modulation*. https://www.soundonsound.com/techniques/introduction-frequency-modulation
+* SparkFun Electronics. (s.f.). *Capacitors: Application examples*. https://learn.sparkfun.com/tutorials/capacitors/application-examples
+* Texas Instruments. (2025). *CD4093B datasheet*. https://www.ti.com/lit/ds/symlink/cd4093b.pdf
+* Texas Instruments. (2023). *LM386 Low Voltage Audio Power Amplifier datasheet*. https://www.ti.com/lit/ds/symlink/lm386.pdf
+* VCV Rack. (s.f.). *VCV Rack*. https://vcvrack.com/

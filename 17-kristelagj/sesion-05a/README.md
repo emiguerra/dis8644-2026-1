@@ -1,1 +1,39 @@
 # sesion-05a
+## Clase clase 070426
+
+### clase
+
+- Misaa
+
+Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
+
+**¿Qué es un sintentizador:** es un instrumento musical electrónico que genera, modifica y manipula señales eléctricas para producir sonido artificialmente. A diferencia de los instrumentos acústicos, crea timbres desde cero mediante osciladores y circuitos (analógicos o digitales), permitiendo imitar instrumentos reales o diseñar sonidos totalmente nuevos.
+
+**Oscilador:** tomar un gesto para que sea suficientemente amigable
+
+**VCV RACK:** es un sintetizador modular virtual de código abierto y gratuito que emula el funcionamiento de sistemas hardware tipo Eurorack en tu ordenador. Permite crear sonidos complejos conectando virtualmente módulos (osciladores, filtros, efectos) mediante cables. Es ideal para aprender síntesis, diseñar sonidos y crear música sin coste inicial.
+
+![vcv rack](imagenes/vcv-rack.jpg)
+
+
+| Sigla | Nombre completo                          | Descripción                                                                 | Función principal                          | Parámetro controlado     |
+|-------|------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------|
+| VCA   | Amplificador Controlado por Voltaje      | Ajusta la ganancia de una señal de audio según un voltaje externo          | Controlar el volumen/amplitud              | Ganancia (amplitud)      |
+| VCF   | Filtro Controlado por Voltaje            | Moldea el timbre del sonido filtrando frecuencias                          | Filtrar armónicos de la señal              | Frecuencia de corte      |
+| VCO   | Oscilador Controlado por Tensión         | Genera señales periódicas cuya frecuencia depende del voltaje de entrada   | Generar la señal base (onda)               | Frecuencia (pitch)       |
+
+Salida de VCO
+
+![vco](imagenes/vco.png)
+
+![RUIDO](imagenes/ruido.jpg)
+
+RITMO Y FRECUENCIA ES LO MISMO
+
+### imagenes de proceso
+
+### post-clase
+
+Quiero ser sincera ante lo que es el taller y me he sentido muy desanimada. Al principio estaba muy entusiasmada, conversé con los profes de cómo me sentía, pero siento que me estoy quedando muy atrás. Lo cual no me motiva ni a subir la bitácora. 
+
+Si me preguntaran puedo rescatar algo, que he podido entender un poco, por ejemplo, lo que hace mi padre, entender algo de audio, diferenciar un condensador polarizado y el que no, pero no puedo explicarte algo de como funciona o que hace realmente. Llego a clases sólo escuchando y no entendiendo nada a pesar de siempre estar preguntando. 
