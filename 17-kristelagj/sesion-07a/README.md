@@ -40,7 +40,5 @@ https://github.com/user-attachments/assets/f6a878d9-8f7b-4323-9d94-7d768596e73b
 
 
 
-### imágenes de proceso
-
 ### post-clase
 
