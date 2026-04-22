@@ -43,6 +43,8 @@ En ambos casos se conectan módulos como VCO, LFO, filtros, entre otros.
 
 ### Chip 4093 ###
 
+![4093](./imagenes/4093.jpg/)
+
 El 4093 es un circuito integrado que contiene:
 
 + Cuatro puertas lógicas NAND de dos entradas
