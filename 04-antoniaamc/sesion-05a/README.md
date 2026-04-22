@@ -7,7 +7,7 @@ sonido como sistema
 El sonido no es algo inmediato:  
 es el resultado de un **flujo estructurado de electricidad + decisiones lógicas + manipulación modular**
 
-> electricidad -> organización -> sonido
+electricidad -> organización -> sonido
 
 -------------------
 
@@ -47,8 +47,8 @@ Página con muy buenas explicaciones: [CD4093](https://www.build-electronic-circ
 
 ## Tabla de Pines (Pinout)
 
-> El CD4093 contiene 4 compuertas NAND con Schmitt Trigger  
-> Cada compuerta tiene: 2 entradas + 1 salida
+El CD4093 contiene 4 compuertas NAND con Schmitt Trigger  
+Cada compuerta tiene: 2 entradas + 1 salida
 
 | Pin | Tipo | Función | Descripción |
 |----|------|--------|------------|
@@ -131,7 +131,7 @@ Fuente: [Link](https://www.electrosmash.com/es/analisis-lm386)
 
 ## Tabla de Pines (Amplificador de Audio)
 
-> El LM386 es un amplificador de baja potencia que toma una señal débil y la hace audible en un parlante.
+El LM386 es un amplificador de baja potencia que toma una señal débil y la hace audible en un parlante.
 
 | Pin | Nombre | Función | Explicación |
 |----|--------|--------|------------|
@@ -176,7 +176,7 @@ Trabajan desde el **low-tech**, usando chips como el CD4093, mostrando que no se
 - **RV2 (ritmo)** → fragmenta el sonido  
 - **Interferencia** (cables sueltos / tocar el chip) → agrega “suciedad”  
 
-> El circuito no es solo técnico, es un **instrumento que se toca**
+El circuito no es solo técnico, es un **instrumento que se toca**
 
 ### Conexión con el proyecto
 
@@ -207,9 +207,8 @@ Software de código abierto que simula sintetizadores modulares bajo el estánda
 - polaridad
 
 **Resumen:**  
-> VCV = teoría  
-> Protoboard = práctica
-
+VCV = teoría  
+Protoboard = práctica
 
 ## Anotaciones y síntesis:
 
@@ -225,7 +224,7 @@ Software de código abierto que simula sintetizadores modulares bajo el estánda
 - lógica computacional -> 0/1  
 - lógica electrónica -> voltaje  
 
-> lógica sonora -> experiencia
+***lógica sonora -> experiencia***
 
 **Patrones clave**
 
@@ -252,6 +251,19 @@ Diseñar un sintetizador implica definir:
 - Schmitt Trigger -> estabiliza  
 - Amplificador -> hace audible  
 - Error -> aporta carácter
+
+----------------------------------
+## Encargo
+
+### ¿Qué es un Schmitt Trigger?  
+Circuito que convierte señales inestables o ruidosas en señales digitales limpias (0 o 1).
+
+Funciona mediante dos umbrales de voltaje:
+- si la señal supera el umbral alto -> se interpreta como 1  
+- si baja del umbral bajo -> se interpreta como 0  
+
+Esto evita errores y hace que la señal sea más estable.
+-> Transforma ruido en una señal clara y utilizable.
 
 ## Bibliografía
 
