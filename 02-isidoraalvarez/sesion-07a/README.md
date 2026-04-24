@@ -46,8 +46,64 @@ En el CD 4091 fuimos probando ponerle distintos capacitadores de 10 uf y de 100u
 
 
 **cosas por hacer**
+
 Hacaer informe 
+
 Afinacion del sonido
+
 corte laser de las cajas 
+
 impresion 3d 
 
+**Trabajo en la semana**
+
+durante la semana el circuito nos funciono muy bien solo faltaba definir la afinacion.
+Cortamos en laser las ultimas modificaciones que le hicimos a la carcasa
+seguimos una logica de colores
+por ej: 4093-recistencias-cafe-pin
+            -capacitor-amarillo-pin
+
+identificamos posibles variables al momento que empezo a fallar algunas partes del circuito 
+*entre estas variables estuvo el problema de las conexiones y en el chip 386 un condesador fue a negativo por error
+teniamos una pinza conectada a un capacitor,funcionaba a ratos
+
+**conectamos**
+en el 555teniamos un condesador de 1uf para hacer ¨resureccion¨  mas rapido, pero a lo mejor la capacidad del 555 era demasiado rapida 
+
+**Etapa final**
+
+Al momento de intentar conectar todos los circuitos para ponerlos en sus resprectivas carcasas y ninguno de los chips funciono 
+
+-Cambiamos el 555 y ahora se prende el led pero no oscila por lo tanto cambiamos el condesador de de 100 uf por  uno de 1 uf 
+
+-por segunda vez se cambia el 555 y se termina por cambiar el potenciometro.
+
+-se cambio otras 3 veces mas el chip 
+
+-habia un potenciometro mal sodado 
+
+**2da falla**
+
+El parlante no sonaba
+
+555 si funcionaba, oscila,parpadea
+vamos probando conexiones con el 4017, empezamos a brobar con leds y solo dos parpadeaban cambiamos como dos veces el chip, para descubrir que al final el clock estaba mal conectado 
+en general habian malas conexiones.
+problemas de soldadura del potenciometro logaritmico
+
+*se uso esta logica para variar el sonido*
+(la frecuencia especifica)
+
+-cuando se dispone los capafitores en serie se restan 
+
+- en paralelo se suman
+
+- entre mayor valor de los capacitadores-mayor es la frecuencia
+
+
+**FINAL**
+
+
+LOGRAMOS HACER QUE SUENE
+
+empezamos a jugar con los capacitadores para ver bien la afinacion del sonido

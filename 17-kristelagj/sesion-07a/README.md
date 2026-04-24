@@ -45,8 +45,21 @@ https://github.com/user-attachments/assets/f6a878d9-8f7b-4323-9d94-7d768596e73b
 https://github.com/user-attachments/assets/9e04852c-9ef2-4be5-85fc-c07c88aff6c9
 
 
-
-
-
 ### post-clase
+
+
+Aquí ya era seguir trabajando en volver a realizar nuestro sintetizador y seguir adelante. 
+Comenzamos a crear la carcasa y como nos la imaginamos, igual en el resultado final cambiamos algunas cosas, como por ejemplo, dejar que la luz se vea.
+
+También Santi logró soldar, nos ayudó mucho eso porque solucionamos el tema de los potenciómetros y lo lejos que estaban de la carcasa, además de como mencione, colocar la luz por fuera. Hicimos que precarias tuviera un poquito de color
+
+videos:
+
+https://youtube.com/shorts/NSwSG6KaihU?feature=share
+
+https://youtube.com/shorts/y3wmMXkBmb8?feature=share
+
+![proceso](imagenes/proceso-1.jpg)
+![proceso](imagenes/proceso_2.jpg)
+![proceso](imagenes/proceso_3.jpg)
 

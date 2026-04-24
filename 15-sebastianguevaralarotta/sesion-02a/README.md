@@ -1,8 +1,11 @@
+
 # sesion-02a
 # Bitácora – Análisis de Circuitos 
 
 ## Observación general
 Los tres ejercicios trabajan la misma idea cómo cambia el comportamiento de los LEDS cuando se interrumpe una resistencia. La clave fue identificar qué está en serie qué está en paralelo y desde dónde se alimenta cada rama.
+
+<img width="600" height="650" alt="circuitodelejercicio" src="https://github.com/user-attachments/assets/8b5df26c-ac68-4ea1-bbe9-d20460f94d77" />
 
 ---
 

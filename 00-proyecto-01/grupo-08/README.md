@@ -14,9 +14,14 @@ Mantuvimos el circuito con el esquemático que nos entregaron, realizando modifi
 
 En base a que no profundizamos en los cambios de sonidos, quisimos diseñar de mejor manera la experiencia al manipularlo, es por eso que le dimos el título de “Naturalezas Interconectadas”. Este título simboliza que somos distintos tipos de naturalezas interactuando la una con la otra, en nuestro caso, personas, interactuando con este circuito a través del sonido y las luces. Así, quisimos integrar dentro del diseño de la carcasa las luces como parte del sintetizador, haciendo que al interactuar no solo se le diera protagonismo al sonido, sino también a las reacciones lumínicas.
 
+![esquemático](./imagenes/esquematico1.png)
+
 ![sintetizador](./videos/video-sinte1.gif)
 
 ![sintetizador](./videos/video-sinte.mov)
+
+![exterior circuito](./imagenes/fotocaja.jpeg)
+
 
 ## proceso y resultados del reloj y secuenciador
 

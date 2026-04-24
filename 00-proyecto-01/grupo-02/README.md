@@ -105,6 +105,8 @@ Finalmente, la señal llega al LM386, que es el amplificador de audio del circui
 
 Terminamos usando el condensador de 100 µF  ya que era el que se escuchaba mejor y más fuerte.
 
+<img src="./imagenes/esquema-cuadro.svg" width="1100">
+
 ## modificaciones realizadas a los circuitos originales
 
 Hicimos algunos cambios para que el circuito funcionara mejor. Primero, quitamos los LEDs del 4017, ya que consumían demasiada corriente y hacían que el sonido se escuchara muy bajo. Al sacarlos, el sonido se escuchó más fuerte, también fue necesario quitar sus resistencias.
@@ -133,6 +135,9 @@ Por último, soldamos los potenciómetros a cables para poder alejarlos del circ
 ### Potenciómetro después (soldado)
 
 ![Potenciometros soldados](./imagenes/potenciometro-soldado.jpeg)
+
+![Esquematico](./imagenes/esquematico.jpg)
+
 
 ## carcasas de cartón
 
@@ -169,6 +174,8 @@ El parlante se conectó mediante cables caimán. El botón interruptor no se con
 Los potenciómetros fueron soldados a cables con el objetivo de poder ubicarlos fuera de la protoboard, lo que facilita su manipulación durante el funcionamiento del circuito. Además, se utilizaron cables macho-hembra para interconectar los distintos módulos, específicamente entre los chips 4017 y 4093, permitiendo separar físicamente los dos módulos del circuito sin afectar su operación. Del mismo modo, este tipo de cables también lo usamos para extender la distancia de los potenciómetros, mejorando la movilidad y el ajuste dentro de la carcasa del proyecto. 
 
 El sistema se construyó utilizando cables Dupont tanto para el circuito principal como para las interconexiones entre módulos, permitiendo la conexión de los distintos componentes del circuito de forma ordenada y funcional. 
+
+![Diagranma de interconexiones](./imagenes/diagrama-de-interconexiones.jpg)
 
 ## resultados finales
 

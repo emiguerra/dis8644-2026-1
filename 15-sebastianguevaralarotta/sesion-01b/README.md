@@ -22,6 +22,8 @@ Esta bitacora presenta un resumen del documental junto con un análisis de su vi
 
 ## ¿Quién fue Aaron Swartz?
 
+<img width="1000" height="709" alt="AaronSwartz-500x350" src="https://github.com/user-attachments/assets/7c4ae723-a425-4356-93f0-699a557adfc2" />
+
 Aaron Swartz fue un joven prodigio de la programación y activista por el acceso libre a la información.
 
 Entre sus principales logros destacan:

@@ -42,29 +42,35 @@ Las conexiones clave para estos son los “Mix” en el 4093, que salen de la co
 
 Se realizo una modificación a los potenciómetros y las Led, debido a que estos al estar conectadas directamente a las protoboards limitaban la movilidad y adaptabilidad hacia la carcasa, reduciendo además el espacio que había en las protoboard.
 
+![potenciometro](./imagenes/potenciometro.jpeg)
+
 Se uso estaño para soldar las partes; cabeza de un cable dupont directamente conectada a la parte positiva del Led, y mismo proceso (con un cable diferente) a la pata del lado negativo, conectando cada cable con su respectiva carga (Positivo+ -Negativo).
+
+![ledverde](./imagenes/ledverde.jpeg)
 
 Ademas se repitió el proceso de soldar con los potenciómetros, en este caso solo se utilizarán también 2 cables, ya que solo utilizaremos la 2 de los 3 pines, el pin 2 (Output) y 3 (GND).
 
 ![sintetizador](./imagenes/sintetizador2.jpeg)
 
-![ledverde](./imagenes/ledverde.jpeg)
+Las modificaciones que se realizaron fueron más que nada estratégicas, para poder tener menos cables de los que se estaban utilizando en las primeras pruebas, como el siguiente ejemplo; los capacitores pasan de estar uno al lado de cada uno, a estar conectados directamente con sus respectivos pines.
 
-![potenciometro](./imagenes/potenciometro.jpeg)
+Antes
 
 ![antes](./imagenes/antes.jpeg)
 
+Despues
+
 ![despues](./imagenes/despues.jpeg)
 
-incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
-
-incluir modificaciones en posición, chips, parámetros, valores, etc.
+![sintetizador](./imagenes/sintetizador2.jpeg)
 
 ## carcasas de cartón
 
-textos, imágenes
+La carcasa fue pensada inicialmente para facilitar la integración de los componentes, evitando cables sueltos. La idea es que elementos como las luces y las perillas estén conectados entre sí mediante cortes o canales dentro de la estructura, permitiendo una instalación más limpia y organizada.
 
-incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
+![carcasa2](./imagenes/carcasa2.jpeg)
+
+![carcasa](./imagenes/carcasa.jpeg)
 
 ## interconexión entre módulos
 

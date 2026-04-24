@@ -53,6 +53,9 @@ Un aspecto importante del proceso fue la decisión de descomponer el circuito en
 
 Aunque al inicio costó entender la lógica del circuito y evitar errores básicos, la repetición y la práctica permitieron avanzar. El aprendizaje se dio principalmente a través de la experimentación, donde equivocarse fue parte del proceso para lograr resultados funcionales.
 
+
+<img width="400" height="550" alt="SintetizadorModularyAmplificación" src="https://github.com/user-attachments/assets/d91fbbab-4e2a-4e01-bb15-06ed43b2e2cd" />
+
 ---
 
 ### Conclusión
