@@ -348,11 +348,14 @@ En conjunto, estos errores permitieron entender el circuito como un sistema inte
 
 ## conclusiones
 
-El desarrollo del OPEN-BEAT KRAFT permitió entender el circuito desde sus errores y ajustes. Los desarmes y fallas evidenciaron su sensibilidad al cableado y a la disposición física, mostrando que el orden es tanto visual como eléctrico.
+El desarrollo del OPEN-BEAT KRAFT evidenció cómo la modularidad es clave para abordar proyectos electrónicos complejos, permitiendo dividir el sistema en etapas independientes (reloj, secuenciador, generación de tono y amplificación), lo que facilitó tanto la comprensión como la resolución de problemas. Esta estructura no solo ordena el proceso, sino que también abre posibilidades de modificación y expansión futura.
 
-La interconexión entre protoboards y los módulos de salida independientes (LM386 + parlante) confirmó que el recorrido de la señal y la ubicación de los componentes afectan directamente el resultado. La separación en módulos móviles y el ocultamiento de las baterías ayudaron a ordenar la interacción sin exponer el sistema.
+En cuanto a la materialidad, el uso de componentes accesibles y reciclables, junto con la construcción de carcasas en cartón, demostró que es posible lograr resultados funcionales y estéticos sin depender de materiales costosos, integrando una dimensión consciente y experimental en el diseño.
+El trabajo en equipo fue fundamental para enfrentar los desafíos técnicos, ya que permitió distribuir tareas, contrastar ideas y resolver errores de manera más eficiente, fortaleciendo tanto el aprendizaje individual como colectivo.
 
-Las modificaciones implementadas no solo resolvieron problemas técnicos, sino que permitieron construir un sistema más claro, controlable y abierto a seguir siendo ajustado.
+Desde el trabajo electrónico, se consolidaron conocimientos sobre el comportamiento de los componentes, la importancia de la estabilidad de las señales y la interacción entre sistemas analógicos y digitales. Paralelamente, el trabajo de electronica se reflejó en la construcción física del dispositivo, donde la organización, el montaje y la precisión manual fueron esenciales para lograr un resultado funcional.
+
+En conjunto, el proyecto no solo permitió construir un sintetizador, sino también entender la electrónica como un proceso integral que combina lógica, materialidad, colaboración y ejecución técnica.
 
 ----------------------------------------------
 
