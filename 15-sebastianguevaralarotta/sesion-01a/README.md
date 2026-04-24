@@ -23,6 +23,8 @@ Para que funcione correctamente, el circuito debe estar cerrado es decir, la cor
 - Potenciómetro: permite variar la cantidad de corriente (por ejemplo, controlar el brillo o el volumen).  
 - Broche de batería: conecta la batería al circuito de forma segura.  
 
+<img width="3024" height="4032" alt="circuitobasico" src="https://github.com/user-attachments/assets/647dcca5-b6f2-46dd-8bec-915b4102ffc8" />
+
 ---
 
 ## Tipos de circuitos eléctricos
