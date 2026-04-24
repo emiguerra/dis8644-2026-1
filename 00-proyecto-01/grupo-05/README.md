@@ -287,6 +287,10 @@ En este sentido, el cableado deja de ser un elemento neutro y pasa a ser parte a
 
 El sistema logró funcionar de manera estable en sus etapas principales: el generador de pulsos (NE555), el secuenciador (CD4017) y la activación de los osciladores (CD4093) respondieron correctamente, permitiendo una lectura clara del ritmo y la secuencia a través de los LEDs. Sin embargo, la salida de audio no se concretó, ya que los parlantes no lograron emitir sonido. Esta falla se relaciona con la interconexión y reorganización del circuito, donde la señal de salida no llegó correctamente a la etapa de amplificación. A pesar de esto, el comportamiento general del sistema permitió validar su lógica de funcionamiento y la relación entre sus módulos.
 
+https://github.com/user-attachments/assets/2396a852-f256-4639-a1d5-042e236e8b4d
+
+https://github.com/user-attachments/assets/be2ac0c0-f38f-4a27-934a-5b8dc7a7526f
+
 ------------------------------------------
 
 ## aprendizajes y errores
