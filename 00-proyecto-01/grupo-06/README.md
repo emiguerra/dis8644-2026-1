@@ -56,13 +56,13 @@ Video 2: https://youtube.com/shorts/NSwSG6KaihU?feature=share
 El proceso comenzó con la instalación del chip 555 en la protoboard. Se conectan los flujo de energía conectando las energias (cables rojo: positivo y negro: negativo). Luego, se procedió a alimentar el integrado vinculando al pin 1 (tierra) al negativo mediante un cable verde y la pin 8 (VCC) al positivo con un cable café claro.
 
 #### Paso 2: Puentes y Red de Temporización
-Para configurar el ciclo del chip, se realizó una interconexión física entre los pins 6 y 2 utilizando un cable café. Desde este nodo, se derivó una conexión hacia un arreglo de resistencias (1k) y un condensador (100 uf), componentes esenciales para definir la frecuencia de la señal. Adicionalmente, la pata 7 se conectó a través de un cable verde a una línea de la protoboard (línea 22), donde se integró a una serie de resistencias para completar la red de descarga.
+Para configurar el ciclo del chip, se realizó una interconexión física entre los pins 6 y 2 utilizando un cable café. Desde este nodo, se derivó una conexión hacia un arreglo de resistencias (1k) y un condensador (100 uf), componentes esenciales para definir la frecuencia de la señal. Adicionalmente, la pin 7 se conectó a través de un cable verde a una línea de la protoboard (línea 22), donde se integró a una serie de resistencias para completar la red de descarga.
 
 #### Paso 3: Salida de Señal e Interconexión de Módulos
-En la pata 3 (salida) se instaló un cable naranja conectado a un LED rojo con su respectiva resistencia de protección, cerrando el circuito en el polo negativo para visualizar la oscilación. Desde esta misma pata 3, se extendió un cable verde que sirve como puente de interconexión con el siguiente módulo del sistema (4017).
+En la pin 3 (salida) se instaló un cable naranja conectado a un LED rojo con su respectiva resistencia de protección, cerrando el circuito en el polo negativo para visualizar la oscilación. Desde esta misma pata 3, se extendió un cable verde que sirve como puente de interconexión con el siguiente módulo del sistema (4017).
 
 #### Paso 4: Ajustes Finales y Estabilización
-Finalmente, se conectó lel pin 5 (control de voltaje) hacia el negativo a través de un condensador sin polaridad. Se aseguró también que el pin 4 (reset) estuviera vinculado al polo positivo para evitar reinicios accidentales, garantizando que el módulo estuviera listo al ver funcionar el LED parpadeando. Por último, Se soldaron la entrada de batería con las entradas dirigidas al negativo y positivo ( cables dupont) , ya que fue la mayor causante de problemas al salir repetidas veces.
+Finalmente, se conectó LED pin 5 (control de voltaje) hacia el negativo a través de un condensador sin polaridad. Se aseguró también que el pin 4 (reset) estuviera vinculado al polo positivo para evitar reinicios accidentales, garantizando que el módulo estuviera listo al ver funcionar el LED parpadeando. Por último, Se soldaron la entrada de batería con las entradas dirigidas al negativo y positivo (cables dupont), ya que fue la mayor causante de problemas al salir repetidas veces.
 
 ![555](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/555.gif)
 
@@ -75,10 +75,10 @@ Finalmente, se conectó lel pin 5 (control de voltaje) hacia el negativo a trav�
 Para asegurar el funcionamiento del contador, se realizaron las conexiones de control. El pin 15 (Reset) se conectó al pin 10 para determinar el ciclo de conteo. Asimismo, los pins 14 (Clock) y 13 (Clock Inhibit) se conectaron al polo negativo mediante resistencias de 10k uf, garantizando la estabilidad de las señales de entrada.
 
 #### 3. Paso 3:Interconexión de Salidas
-Se reservaron las conexiones de los botones (pins 2, 3, 4 y 7) para la etapa final ( sentíamos que era lo más difícil). Con el fin de verificar que el circuito funcionaba correctamente, se instalaron LEDs de prueba. Estos se conectaron desde las cuatro patillas de salida mencionadas hacia las filas 19, 16, 13 y 10 de la protoboard.
+Se reservaron las conexiones de los botones (pins 2, 3, 4 y 7) para la etapa final (sentíamos que era lo más difícil). Con el fin de verificar que el circuito funcionaba correctamente, se instalaron LEDs de prueba. Estos se conectaron desde las cuatro patillas de salida mencionadas hacia las filas 19, 16, 13 y 10 de la protoboard.
 
 #### 4. Paso 4: FUNCIONANDO :)))
-Para proteger los componentes, el cátodo de cada LED se conectó al negativo a través de una resistencia de 10k . Esta configuración permite visualizar la secuencia de luces manipulada por el potenciómetro del 555 y confirmar el desplazamiento de la energía para después cambiar los negativos hacia el siguiente módulo 4093.
+Para proteger los componentes, el cátodo de cada LED se conectó al negativo a través de una resistencia de 10k. Esta configuración permite visualizar la secuencia de luces manipulada por el potenciómetro del 555 y confirmar el desplazamiento de la energía para después cambiar los negativos hacia el siguiente módulo 4093.
 
 ![4017](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/4017.gif)
 
