@@ -16,9 +16,9 @@ Comencemos c:
 
 ## 1.	Tipos de fuentes de energía para alimentar la proto.
 
-**9V:** *La cual usamos regularmente, obtenida de una batería recargable.*
-**12V:** *Baterías de autos y paneles solares.*
-**5V:** *Un cable “USB-A” que se pude conectar a una cabeza de energía y transitarla hasta la proto.*
+**9V:** *La cual usamos regularmente, obtenida de una batería recargable.*  
+**12V:** *Baterías de autos y paneles solares.*  
+**5V:** *Un cable “USB-A” que se pude conectar a una cabeza de energía y transitarla hasta la proto.*  
 
 ## 2.	Modificaciones realizadas por el profesor Misa para un mejor funcionamiento del instrumento. 
 
