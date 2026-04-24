@@ -19,38 +19,59 @@ En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin
 
 imagen del sintetizador en su contexto
 
+![Esquemático Original del NANDulator](./imagenes/nandulatorplanosoriginales.gif)
+
 audio o video del sintetizador en acción
 
-## proceso y resultados del reloj y secuenciador
+## Componentes
+
+En este proyecto utilizamos diferentes componentes cada uno para funciones especificas los cuales son:
+- Resistencias ( ): Se encargan de limitar el flujo de corriente eléctrica y establecer niveles de voltaje específicos dentro del circuito, las resistencias son fundamentales para proteger otros componentes más sensibles como los leds.
+- Diodos: Actúan como ¨válvulas¨ que permiten el paso de la corriente en una sola dirección. Se utilizan generalmente para proteger el circuito contra inversiones de polaridad o para rectificar señales.
+- Condensadores: Se encargan de almacenar energia temporalmente. 
+- Potenciometros: Son resistencias variables que permiten ajustar manualmente el nivel de resistencia. Se utilizan para controlar diferentes parámetros como el volumen del audio o la intensidad de la señal.
+- parlante: Es el ¨traductor¨ de salida que convierte las señales eléctricas amplificadas en ondas sonoras
+
+Ademas diferentes chips, siendo estos:
+- LMD386: Es un amplificador de potencia de audio de bajo voltaje. Su función principal es tomar una señal de audio débil y aumentarle la potencia lo suficiente para que pueda ser reproducida por el parlante con claridad.
+  
+- CD4093BE: Es un circuito integrado que contiene cuatro puertas NAND Schmitt Trigger, se suele utilizar para generar oscilacione, crear pulsos de reloj o limpiar señales con ruido gracias a su histéresis.
+
+¿Que Son las compuertas NAND Schmitt Trigger y la histéresis?
+
+- Las compuertas NAND son puertas lógicas que entrega una señal 0 solo cuando todas sus entradas están en 1, Si alguna entrada es 0, la salida será de 1. por otro lado el Schmitt Trigger es un diseño de circuito interno que le da "decisión" a la compuerta. En vez de tener un solo punto de cambio, tiene dos umbrales de voltaje distintos.
+
+- La histéresis es la diferencia entre los dos umbrales del Schmitt Trigger, genra una sona de memoria de los V que se necesitan para apagar y encender un circuito, entregando una señal limpia a posibles interferencias 
+## Proceso y resultados del reloj y secuenciador
 
 con chips 555 y 4017
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
-## proceso y resultados de osciladores y amplificador
+## Proceso y resultados de osciladores y amplificador
 
 con chips 4093 y 386
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
-## modificaciones realizadas a los circuitos originales
+## Modificaciones realizadas a los circuitos originales
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
 incluir modificaciones en posición, chips, parámetros, valores, etc.
 
-## carcasas de cartón
+## Carcasas de cartón
 
 textos, imágenes
 
 incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
 **CARTON DE DESECHOS, CINTA GAFFER COMO FORMA DE ACERCARSE A LAS CARCASAS DE ALUMINIO EN LAS QUE SUELEN ESTAR LOS EFECTOS MODULARES Y PERILLAS A LO LOCO/PARLANTE COLGANDO PORQUE QUEREMOS SALIR UN POCO DE LO COMODO(?) O CONVENIENTE(???)**
 
-## interconexión entre módulos
+## Interconexión entre módulos
 
 textos, imágenes, diagramas de interconexión
 
-## resultados finales
+## Resultados finales
 
 texto
 
@@ -58,12 +79,12 @@ imagen
 
 video / audio
 
-## aprendizajes y errores
+## Aprendizajes y errores
 
 las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
 
 **NO LOGRAMOS HACER FUNCIONAR EL 4STEPSYNTH COMPLETAMENTE, PERO SI LOGRAMOS EL NANDULATOR, COSTO UNIR EL FILTRO/EFECTO DEL 4093 Y AL AMP, NOS COSTO ENTENDER COMO FUNCIONABA EL FILTRO, LA UNION DE CABLES ETC...**
 
-## conclusiones
+## Conclusiones
 
 sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
