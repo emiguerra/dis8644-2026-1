@@ -8,7 +8,7 @@ En esta clase nos entregaron el esquema actualizado con mejoras.
 
 Revisamos los cambios y empezamos a aplicarlos en nuestro circuito para que funcionara mejor.
 
-Ese día rehacimos todo el circuito desde cero, ordenando mejor las piezas para que quedara bien conectado, ya que antes algunos cables no estaban bien puestos. El 555 y el 4017 funcionaban sin problemas por separado, pero el resto del circuito no respondía. Luego, al reconstruir el 4093 en clases, solo logramos que sonaran dos de las cuatro compuertas. Más tarde, Benjamín terminó las dos que faltaban en su casa  y ya todas funcionaban. Después unimos todo al circuito completo y quedó funcionando.
+Ese día rehicimos todo el circuito desde cero, ordenando mejor las piezas para que quedara bien conectado, ya que antes algunos cables no estaban bien puestos. El 555 y el 4017 funcionaban sin problemas por separado, pero el resto del circuito no respondía. Luego, al reconstruir el 4093 en clases, solo logramos que sonaran dos de las cuatro compuertas. Más tarde, Benjamín terminó las dos que faltaban en su casa  y ya todas funcionaban. Después unimos todo al circuito completo y quedó funcionando.
 
 ![foto](./imagenes/gif.gif)
 
