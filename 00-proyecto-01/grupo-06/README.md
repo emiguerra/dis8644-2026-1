@@ -82,7 +82,7 @@ Para proteger los componentes, el cátodo de cada LED se conectó al negativo a 
 
 ![4017](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/4017.gif)
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+![prueba](imagenes/proceso/secuenciador-as-an-img.jpeg)
 
 ## proceso y resultados de osciladores y amplificador
 
