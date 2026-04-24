@@ -40,11 +40,11 @@ Las conexiones clave para estos son los “Mix” en el 4093, que salen de la co
 
 ## modificaciones realizadas a los circuitos originales
 
-![LedVerde](./imagenes/LedVerde.jpeg)
+![ledverde](./imagenes/ledverde.jpeg)
 
-![Potenciometro](./imagenes/potenciometro.jpeg)
+![potenciometro](./imagenes/potenciometro.jpeg)
 
-![Sintetizador](./imagenes/Sintetizador2.jpeg)
+![sintetizador](./imagenes/sintetizador2.jpeg)
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
