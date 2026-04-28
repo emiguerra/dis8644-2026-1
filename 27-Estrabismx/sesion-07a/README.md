@@ -90,11 +90,11 @@ Por lo mencionado anteriormente, esto considera una pequeña sección el día mi
 
 Por mi parte avance instalando el 4093 en su caja para empezar a visualizar el resultado final
 
-![Proceso](./imagenes/r00.jpg)
+![Proceso](./imagenes/r000.jpg)
 
-![Proceso](./imagenes/r01.jpg)
+![Proceso](./imagenes/r001.jpg)
 
-![Proceso](./imagenes/r02.jpg)
+![Proceso](./imagenes/r002.jpg)
 
 ![Proceso](./imagenes/r03.jpg)
 
@@ -137,6 +137,8 @@ Siendo ya las 7am nos dirigimos a la universidad a terminar esto de una vez por 
 [![Proceso](./imagenes/sc001.png)](https://youtube.com/shorts/_m8MDdTVIT4)
 
 [![Proceso](./imagenes/sc000.png)](https://youtube.com/shorts/9_JYUyy7V0Q)
+
+> Acá nos dimos cuenta de lo fuerte que era un potenciómetro logaritmico con el sonido
 
 <br>
 
