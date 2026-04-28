@@ -28,8 +28,17 @@ FALTA: Terminar esquemáticos, revisar la cápsula de la clase, subir capturas y
 ---
 
 ## Dimensiones y estándares  
-- Los fabricantes usan **estándares comunes** → DIN, JEDEC, EIA  
+Atención con la búsqueda y uso de componentes, hay que prestar especial atención a las dimensiones físicas de uno. En general no es necesario buscar componentes con capacidades de voltaje demasiado altas (perdida de plata, mejor quedarse con lo necesario. A menos que...)
 
+Para encontrar dimensiones exactas, recomendación práctica:
+
+1. Usar footprint de KiCad
+2. Leer sus dimensiones
+3. Solo si es crítico → confirmar con datasheet  
+Ejemplo:  
+- *resistor 1/4W datasheet*
+
+- Los fabricantes usan **estándares comunes** → DIN, JEDEC, EIA  
 Ejemplo:  
 - `DIN0207` → resistencia axial típica (~1/4W)
 
@@ -85,14 +94,14 @@ Ejemplo:
 ---
 
 ## Edición PCB
-- Cambiar dimensiones del borde:
+- Cambiar dimensiones del borde:  
   - seleccionar borde → `E`
 
 ---
 
-## Guardado de proyecto
+## Guardado de proyecto  
 - Guardar desde `.kicad_pro`  
-- Contiene:
+- Contiene:  
   - esquemático  
   - PCB  
   - config general  
