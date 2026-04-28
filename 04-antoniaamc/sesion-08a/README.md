@@ -97,7 +97,7 @@ Capas principales en PCB de 2 capas:
 
 ---
 
-## Notas de clase (más crudas)
+## Notas
 - las resistencias más largas → dependen de estándar (ej: DIN0207, DIN0309)  
 - los fabricantes usan las mismas dimensiones (estandarización industrial)
 
