@@ -8,7 +8,6 @@ El día de hoy vamos a ver lo siguiente:
 1.	Apuntes de lo que vimos los primeros 15min de clase; introducción pequeña a KiCad.  
 2.	Aprendimos a soldar.  
 3.	Trabajo en Solemne 01 el cual fracaso.  
-4.	Salvación de la Solemne 01 y trabajo asincrónico a la clase para terminar detalles.
    
 Comencemos c:
 
@@ -53,4 +52,14 @@ https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvel
 ![bocina soldada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-07a/imagenes/bocinasoldada.jpeg)
 
 ## 3.	Trabajo en Solemne 01 el cual fracaso.  
-## 4.	Salvación de la Solemne 01 y trabajo asincrónico a la clase para terminar detalles.
+
+Junto a mi grupo, veníamos teniendo un ritmo de trabajo muy bueno. Todo funcionaba exitosamente, peroooo, el martes 21 de abril, cuando llego el momento de trabajar en clase, sucedió algo muy particular, y es que había una serie de cables desconectados…, y como hasta el momento no teníamos un orden de colores, etc…, se nos hizo imposible volver a conectarlos como se debía. Intentamos toda la clase arreglar a “Precarias”, pero no se nos dio. 
+
+Para que el tiempo no nos alcanzara, tomamos una decisión fuerte, la cual fue:
+
+HACER TODO DE NUEVO. 
+
+Precarias paso a ser una **Frankenstein…,** y en efecto, nos demoramos menos armándola que intentando descifrar donde iban esos cables.
+
+Y ahora sí, “Precarias” había vuelto a la vida.   
+Conclusión: Siempre llevar un orden de las cosas. EN TODO.
