@@ -25,6 +25,10 @@ Winterbloom → fuente abierta
 
 ----------------
 
+En la clase de hoy seguimos viendo kicad, ya se nos había presentado muchas veces, de hecho todos los esquemáticos que hemos leído han sido realizados en este software y la semana pasada, nos dieron una introducción muy breve de lo que era y se encontraba aquí.
+
+De lo que hemos visto durante el semestre, esta clase mantuvo mi atención permanentemente,. Me gusta aprender sobre softwares y entender desde su base. Por eso me sorprendió mucho que Aaron me mencionara que le gustaba que hiciera tantas preguntas. Espero no aburrir a mis compañeros. 
+
 | Paso | Acción                                      | Descripción                                                      |
 |------|---------------------------------------------|------------------------------------------------------------------|
 | 1    | Dibujar el esquemático (kicad_sch)          | Crear el diagrama lógico del circuito                            |
