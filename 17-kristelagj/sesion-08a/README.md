@@ -5,30 +5,42 @@
 
 - Misaa
 
-Ryosuke kiyasu:
+| Paso | Acción                                      | Descripción                                                      |
+|------|---------------------------------------------|------------------------------------------------------------------|
+| 1    | Dibujar el esquemático (kicad_sch)          | Crear el diagrama lógico del circuito                            |
+| 2    | Asociar huellas a símbolos                  | Vincular lo físico (PCB) con lo conceptual (esquema)             |
+| 3    | Abrir PCB Editor (PCB New)                  | Importar el esquemático para comenzar el diseño de la placa      |
+| 4    | Definir tamaños de pistas                   | Establecer grosores según requerimientos eléctricos              |
+| 5    | Distribuir componentes                      | Ubicar los elementos en la placa de forma estratégica            |
+| 6    | Rutear conexiones                           | Dibujar las pistas que conectan los componentes                  |
+| 7    | Preparar para fabricación                   | Añadir detalles finales (bordes, textos, capas, etc.)            |
+| Extra| Crear huellas y símbolos propios            | Diseñar componentes personalizados si no existen en librerías    |
 
-→ símbolos = abstractos – esquemáticos
+| Acción / Función                          | Atajo / Ruta                          | Descripción                                      |
+|------------------------------------------|---------------------------------------|--------------------------------------------------|
+| Abrir preferencias                        | Archivo > Preferencias                | Accede a la configuración general                |
+| Configurar ratón                          | Preferencias > Preferencias > Ratón   | Ajustes del comportamiento del mouse             |
+| Editar valor/código de componente         | Click + V                             | Modifica valor o código del componente           |
+| Mover componente                          | M                                     | Permite desplazar elementos                      |
+| Copiar                                    | CTRL + C                              | Copia elemento seleccionado                      |
+| Pegar                                     | CTRL + V                              | Pega elemento copiado                            |
+| Colocar cable                             | Click y soltar                        | Inserta conexiones (wires)                       |
+| Mover todo lo seleccionado                | G                                     | Arrastra conjunto de elementos                   |
+| Rotar                                     | R                                     | Rota el elemento seleccionado                    |
+| Reflejar en eje X                         | X                                     | Espeja sin afectar orientación del texto         |
+| Cortar                                    | CTRL + X                              | Corta el elemento seleccionado                   |
+| Modo cable                                | W                                     | Activa herramienta de cableado                   |
+| Abrir propiedades                         | E                                     | Accede a propiedades del elemento                |
+| Cambiar nombre desde propiedades          | E                                     | Permite editar nombre del componente             |
 
- → huellas = PCB – layout (mundo)
- 
-Platón → como ve a las personas
-
-Materia – expresión – nombre
-
-Pasos para principiantes en kikad:
-
-1. Dibujar el esquemático → kikad_sch
-2. Asociar huellas  (físico) a símbolos (ideas)
-3. Abrir PCB new (para crear pcb), interprete del esquemático.
-4. Definir tamaños de los pistas
-5. Repartir componentes físicamente
-6. Rutear componentes (ruta)
-7. Adornar/ornamentarlo necesario para fabricación
-**Paso extra:** crear mis propias huellas y símbolos
-
-Preferencias > preferencias > Ratón
-
-R → Resistencia
+| Elemento / Símbolo        | Representación | Descripción                          |
+|--------------------------|----------------|--------------------------------------|
+| Resistencia              | R              | Componente resistivo                 |
+| Condensador polarizado   | C (polarizado) | Capacitor con polaridad definida     |
+| Potenciómetro            | R              | Resistencia variable                 |
+| Batería                  | Battery cell   | Fuente de energía                    |
+| Circuito integrado       | U              | Chip o componente integrado          |
+| Parlante                 | 8 ohm / 3W     | Altavoz usado en el circuito         |
 
 
 
