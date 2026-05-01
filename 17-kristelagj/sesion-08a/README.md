@@ -75,5 +75,6 @@ Lo desarrollé en mi mente y dije: “Nuestro mejor algoritmo son las personas q
 
 Todo esto surge porque he tenido la posibilidad de ir a muchos lugares nuevos de música, los cuales muchas personas me han recomendado música que a ellos les gusta o que es algo que debe saber y como persona que está constantemente moviéndose en este ámbito, ver como ese algoritmo tiene sentimientos, expresiones y pasión, me hace querer escuchar toda mi vida esa canción y atesorar, en cambio, algo que me recomienda una plataforma cualquiera, la escucho una vez y se esfumó en mi mente, no sé como se llama la cancion ni menos el artista. Se vuelve un pensamiento fugaz en mi mente que no quiero recordar. 
 
+Para fundamentar esto, quiero dejarles este álbum de Mort Garson, llamado Mother Earth's Plantasia que me recomendaron mientras conversábamos sobre nuestros artistas favoritos y comenzó a sonar de fondo el primer tema de este álbum. 
 
 https://www.youtube.com/watch?v=SZkR3PyHTs0&list=RDSZkR3PyHTs0&start_radio=1
