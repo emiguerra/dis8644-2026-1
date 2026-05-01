@@ -69,7 +69,7 @@ De lo que hemos visto durante el semestre, esta clase mantuvo mi atención perma
 
 ### post-clase
 
-Hace unas semanas atrás, Misaa me dijo un comentario que me resonó y que me hizo sentido en mi mente que fue, cito textual: “que el algoritmo no escuche por nosotros” 
+Hace unas semanas atrás, Misaa me dio un comentario que me resonó y que me hizo sentido en mi mente que fue, cito textual: “que el algoritmo no escuche por nosotros” 
 
 Lo desarrollé en mi mente y dije: “Nuestro mejor algoritmo son las personas que nos rodean los cuales nos dan una recomendación fundamentada y estudiada de sus propios gustos hacia nosotros, en cambio algoritmo virtual y programado crea que es nuestros oídos, nos hace ser flojos y seres no pensantes ni oyentes” 
 
