@@ -5,6 +5,26 @@
 
 - Misaa
 
+Ryosuke kiyasu
+
+→ símbolos = abstractos – esquemáticos
+
+ → huellas = PCB – layout (mundo)
+ 
+Platón → como ve a las personas
+
+Materia – expresión – nombre
+
+Sin pausa pero sin prisa.
+
+Las imágenes también son pensamientos. Como nosotros pensamos. Estoy hecho de mundo (Conocimientos comunes, mis propias percepciones y de cómo percibo el mundo.)
+
+Winterbloom → fuente abierta
+
+[Género – especie – individuo] → THT – Resistor – R2 (aristóteles) 
+
+----------------
+
 | Paso | Acción                                      | Descripción                                                      |
 |------|---------------------------------------------|------------------------------------------------------------------|
 | 1    | Dibujar el esquemático (kicad_sch)          | Crear el diagrama lógico del circuito                            |
