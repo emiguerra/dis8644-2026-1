@@ -1,11 +1,36 @@
 # sesion-08a
 ## Clase 270426
 
-### pre-clase (teloneo Aaron)
-
 ### clase
 
 - Misaa
+
+Ryosuke kiyasu:
+
+→ símbolos = abstractos – esquemáticos
+
+ → huellas = PCB – layout (mundo)
+ 
+Platón → como ve a las personas
+
+Materia – expresión – nombre
+
+Pasos para principiantes en kikad:
+
+1. Dibujar el esquemático → kikad_sch
+2. Asociar huellas  (físico) a símbolos (ideas)
+3. Abrir PCB new (para crear pcb), interprete del esquemático.
+4. Definir tamaños de los pistas
+5. Repartir componentes físicamente
+6. Rutear componentes (ruta)
+7. Adornar/ornamentarlo necesario para fabricación
+**Paso extra:** crear mis propias huellas y símbolos
+
+Preferencias > preferencias > Ratón
+
+R → Resistencia
+
+
 
 ### imagenes de proceso
 
