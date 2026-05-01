@@ -67,10 +67,13 @@ De lo que hemos visto durante el semestre, esta clase mantuvo mi atención perma
 | Parlante                 | 8 ohm / 3W     | Altavoz usado en el circuito         |
 
 
-
-### imagenes de proceso
-
 ### post-clase
-Nuestro mejor algoritmo son las personas que nos rodean, que ellos nos den una recomendación fundamentada y estudiada de sus propios gustos hacia nosotros, pero que el algoritmo virtual sea nuestros oídos, nos hace ser flojos y seres no pensantes ni oyentes
+
+Hace unas semanas atrás, Misaa me dijo un comentario que me resonó y que me hizo sentido en mi mente que fue, cito textual: “que el algoritmo no escuche por nosotros” 
+
+Lo desarrollé en mi mente y dije: “Nuestro mejor algoritmo son las personas que nos rodean los cuales nos dan una recomendación fundamentada y estudiada de sus propios gustos hacia nosotros, en cambio algoritmo virtual y programado crea que es nuestros oídos, nos hace ser flojos y seres no pensantes ni oyentes” 
+
+Todo esto surge porque he tenido la posibilidad de ir a muchos lugares nuevos de música, los cuales muchas personas me han recomendado música que a ellos les gusta o que es algo que debe saber y como persona que está constantemente moviéndose en este ámbito, ver como ese algoritmo tiene sentimientos, expresiones y pasión, me hace querer escuchar toda mi vida esa canción y atesorar, en cambio, algo que me recomienda una plataforma cualquiera, la escucho una vez y se esfumó en mi mente, no sé como se llama la cancion ni menos el artista. Se vuelve un pensamiento fugaz en mi mente que no quiero recordar. 
+
 
 https://www.youtube.com/watch?v=SZkR3PyHTs0&list=RDSZkR3PyHTs0&start_radio=1
