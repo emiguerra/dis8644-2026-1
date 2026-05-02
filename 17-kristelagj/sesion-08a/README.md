@@ -5,9 +5,9 @@
 
 - Misaa
 
-Ryosuke kiyasu: músico y percusionista japonés, reconocido mundialmente por sus innovadores y virales solos de caja (snare drum) experimental y noise. 
+**Ryosuke kiyasu:** músico y percusionista japonés, reconocido mundialmente por sus innovadores y virales solos de caja (snare drum) experimental y noise. 
 
-Gracias a él se abre el debate de qué es ser músico en esta sociedad en mi mente ¿quien sabe las “reglas” internacionales de componer e interpretar un instrumento —esté siendo cualquiera, material o vocal— o el que simplemente quiere expresar algo.
+**Opinión:** Gracias a él se abre el debate de qué es ser músico en esta sociedad en mi mente ¿quien sabe las “reglas” internacionales de componer e interpretar un instrumento —esté siendo cualquiera, material o vocal— o el que simplemente quiere expresar algo.
 
 Como músico, siempre vi este espacio para poder expresarme sin saber componer ni menos teoría, jamás me cuestioné nada y simplemente tocaba lo que me enseñaron y entendía de lectura. Yo solo quería liberar cargas emocionales y expresarme de una manera distinta que no fuera con emociones, sino movimientos que podían tener sonido, entonces ¿qué es para nosotros ser músico? ¿cómo debería comportarse? lo dejo a su criterio 
 
